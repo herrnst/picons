@@ -8684,6 +8684,7 @@ ln -s disneyxd.png 1_0_1_1C_1_85_FFFF0000_0_0_0.png
 ln -s disneyxd.png 1_0_1_CF74_2714_F001_FFFF0000_0_0_0.png
 ln -s dmax.png 1_0_1_55F0_D8_A018_FFFF0000_0_0_0.png
 ln -s dmax.png 1_0_1_5E2C_B5_270F_FFFF0000_0_0_0.png
+ln -s dmaxhd.png 1_0_19_7980_137_270F_FFFF0000_0_0_0.png
 ln -s dmdigital.png 1_0_1_571E_E9_A018_FFFF0000_0_0_0.png
 ln -s dmsat.png 1_0_1_5774_ED_A018_FFFF0000_0_0_0.png
 ln -s ducktv.png 1_0_1_5662_DD_A018_FFFF0000_0_0_0.png
@@ -8808,6 +8809,7 @@ ln -s kinowelttv.png 1_0_1_3333_83_270F_FFFF0000_0_0_0.png
 ln -s kinowelttv.png 1_0_1_C3BC_2713_F001_FFFF0000_0_0_0.png
 ln -s kinowelttvhd.png 1_0_19_5612_D9_A018_FFFF0000_0_0_0.png
 ln -s kinowelttvhd.png 1_0_19_75A4_15F_270F_FFFF0000_0_0_0.png
+ln -s ktv.png 1_0_1_69EB_10F_270F_FFFF0000_0_0_0.png
 ln -s libertytv.png 1_0_1_6DC7_119_270F_FFFF0000_0_0_0.png
 ln -s ligtv.png 1_0_1_5659_DD_270F_FFFF0000_0_0_0.png
 ln -s ligtv.png 1_0_1_D106_70_F001_FFFF0000_0_0_0.png
@@ -8965,6 +8967,7 @@ ln -s sat1.png 1_0_1_2F46_A1_270F_FFFF0000_0_0_0.png
 ln -s sat1.png 1_0_1_445C_453_A018_FFFF0000_0_0_0.png
 ln -s sat1emotions.png 1_0_1_3339_83_270F_FFFF0000_0_0_0.png
 ln -s sat1emotions.png 1_0_1_D0A3_2714_F001_FFFF0000_0_0_0.png
+ln -s sat1gold.png 1_0_1_71B6_123_270F_FFFF0000_0_0_0.png
 ln -s sat1hd.png 1_0_19_7D65_141_270F_FFFF0000_0_0_0.png
 ln -s sat1hd.png 1_0_19_EF74_3F9_1_FFFF0000_0_0_0.png
 ln -s servustv.png 1_0_1_42D8_AB_270F_FFFF0000_0_0_0.png
