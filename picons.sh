@@ -258,7 +258,7 @@ ln -s kinowelttv.png 1_0_1_3333_83_270F_FFFF0000_0_0_0.png
 ln -s kinowelttv.png 1_0_1_C3BC_2713_F001_FFFF0000_0_0_0.png
 ln -s kinowelttvhd.png 1_0_19_5612_D9_A018_FFFF0000_0_0_0.png
 ln -s kinowelttvhd.png 1_0_19_75A4_1A5_270F_FFFF0000_0_0_0.png
-ln -s ktv.png 1_0_1_69EB_97_270F_FFFF0000_0_0_0.png
+ln -s k-tv.png 1_0_1_69EB_97_270F_FFFF0000_0_0_0.png
 ln -s libertytv.png 1_0_1_6DC7_C9_270F_FFFF0000_0_0_0.png
 ln -s ligtv.png 1_0_1_5659_DD_270F_FFFF0000_0_0_0.png
 ln -s ligtv.png 1_0_1_D106_70_F001_FFFF0000_0_0_0.png
