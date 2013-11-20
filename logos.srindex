@@ -1133,6 +1133,10 @@ D809_81E_2_11A0000
 --- 19.2E
 FB0_451_35_C00000
 
+# tv.bundesrat.png
+--- 23.5E
+36CE_C8C_3_EB0000
+
 # tv.business.png
 --- NO DATA
 
@@ -1285,6 +1289,14 @@ CE6_1518_13E_820000
 # tv.canal+accion-es.png
 --- 19.2E
 746C_3F0_1_C00000
+
+# tv.canal+alademande.png
+--- 19.2E
+2520_456_1_C00000
+
+# tv.canal+alaune.png
+--- 19.2E
+206D_432_1_C00000
 
 # tv.canal+cinema-fr.png
 --- 19.2E
@@ -1513,7 +1525,6 @@ CE6_1518_13E_820000
 
 # tv.canalsatalademande.png
 --- 19.2E
-2520_456_1_C00000
 23A3_44A_1_C00000
 
 # tv.canalsatavoircesoir.png
@@ -2086,6 +2097,8 @@ D805_81E_2_11A0000
 # tv.ct1.png
 --- 23.5E
 1F43_BC6_3_EB0000
+1F41_BC6_3_EB0000
+1F45_BC6_3_EB0000
 
 # tv.ct1hd.png
 --- 13.0E
@@ -4331,7 +4344,8 @@ D386_81C_2_11A0000
 4A_5_85_C00000
 
 # tv.joj.png
---- NO DATA
+--- 23.5E
+13ED_C87_3_EB0000
 
 # tv.jojplus.png
 --- 23.5E
@@ -4789,7 +4803,8 @@ B5E_34_55_300000
 --- NO DATA
 
 # tv.luxtelevizia.png
---- NO DATA
+--- 23.5E
+1454_C98_3_EB0000
 
 # tv.leonardo.png
 --- 13.0E
@@ -6128,6 +6143,10 @@ CB88_8FD_2_11A0000
 2333_442_1_C00000
 2347_442_1_C00000
 
+# tv.parlamentsfernsehen.png
+--- 23.5E
+36BA_C8C_3_EB0000
+
 # tv.patriot.png
 --- NO DATA
 
@@ -6279,13 +6298,13 @@ D7EF_822_2_11A0000
 2337_442_1_C00000
 234B_442_1_C00000
 
-# tv.planete+justice.png
---- 19.2E
-2588_458_1_C00000
-
-# tv.planete+nolimit.png
+# tv.planete+actionandexperience.png
 --- 19.2E
 2077_432_1_C00000
+
+# tv.planete+crimeinvestigation.png
+--- 19.2E
+2588_458_1_C00000
 
 # tv.planete+thalassa.png
 --- 19.2E
@@ -6447,6 +6466,14 @@ C7AB_821_2_11A0000
 --- 28.2E
 CD1E_902_2_11A0000
 
+# tv.prima.png
+--- 23.5E
+1F42_BC6_3_EB0000
+
+# tv.primahd.png
+--- 23.5E
+13A8_C85_3_EB0000
+
 # tv.primacool.png
 --- 23.5E
 3351_C93_3_EB0000
@@ -6481,6 +6508,7 @@ D7CD_822_2_11A0000
 21A5_448_1_C00000
 --- 23.5E
 17B8_C82_3_EB0000
+17B9_C82_3_EB0000
 
 # tv.propellertv.png
 --- 28.2E
@@ -7722,8 +7750,6 @@ F27_7F0_2_11A0000
 11AE_7DC_2_11A0000
 11AF_7DC_2_11A0000
 11B0_7DC_2_11A0000
-11B2_7D2_2_11A0000
-1212_7D2_2_11A0000
 1213_7D2_2_11A0000
 1214_7D2_2_11A0000
 1215_7D2_2_11A0000
@@ -8237,6 +8263,10 @@ C6C9_820_2_11A0000
 # tv.smileofachild.png
 --- 13.0E
 328_3BC4_13E_820000
+
+# tv.sntv.png
+--- 13.0E
+29AE_3D54_13E_820000
 
 # tv.solmusica.png
 --- 19.2E
@@ -9792,6 +9822,8 @@ D3CA_823_2_11A0000
 # tv.uniresat.png
 --- 13.0E
 245E_23F0_13F_820000
+--- 23.5E
+1485_C98_3_EB0000
 
 # tv.universalchannel.png
 --- 9.0E
@@ -10059,6 +10091,8 @@ A50_22_56_300000
 # tv.viasatnaturehd_viasathistoryhd.png
 --- 4.8E
 7B2_1D_56_300000
+--- 23.5E
+1B80_C88_3_EB0000
 
 # tv.viasatnature_viasatcrime_playboytv.png
 --- 4.8E
@@ -10501,6 +10535,26 @@ C526_81B_2_11A0000
 # radio.bayernplus.png
 --- 19.2E
 6EF5_445_1_C00000
+
+# radio.bbcradio1.png
+--- 28.2E
+1932_7FF_2_11A0000
+
+# radio.bbcradio1xtra.png
+--- 28.2E
+1942_7FF_2_11A0000
+
+# radio.bbcradio2.png
+--- 28.2E
+1934_7FF_2_11A0000
+
+# radio.bbcradio3.png
+--- 28.2E
+288C_7FE_2_11A0000
+
+# radio.bbcradio4.png
+--- 28.2E
+288D_7FE_2_11A0000
 
 # radio.bbcworldservice.png
 --- 19.2E
