@@ -1259,6 +1259,7 @@ CE6_1518_13E_820000
 750C_420_1_C00000
 750D_420_1_C00000
 7625_408_1_C00000
+7882_414_1_C00000
 
 # tv.canale5.png
 --- 13.0E
@@ -1335,6 +1336,7 @@ CE6_1518_13E_820000
 # tv.canal+accion-es.png
 --- 19.2E
 746C_3F0_1_C00000
+7472_3F0_1_C00000
 
 # tv.canal+alademande-fr.png
 --- 19.2E
@@ -1362,10 +1364,12 @@ CE6_1518_13E_820000
 # tv.canal+comedia-es.png
 --- 19.2E
 746D_3F0_1_C00000
+7473_3F0_1_C00000
 
 # tv.canal+dcine-es.png
 --- 19.2E
 746E_3F0_1_C00000
+7474_3F0_1_C00000
 
 # tv.canal+dcinehd-es.png
 --- 19.2E
