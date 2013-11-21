@@ -818,6 +818,10 @@ E08_2D50_13E_820000
 --- 28.2E
 286F_800_2_11A0000
 
+# tv.bbcthreehd.png
+--- 28.2E
+1B27_802_2_11A0000
+
 # tv.bbctwo.png
 --- 28.2E
 189E_7FD_2_11A0000
@@ -1291,8 +1295,7 @@ CE6_1518_13E_820000
 746C_3F0_1_C00000
 
 # tv.canal+alademande.png
---- 19.2E
-2520_456_1_C00000
+--- NO DATA
 
 # tv.canal+alaune.png
 --- 19.2E
@@ -1526,6 +1529,7 @@ CE6_1518_13E_820000
 # tv.canalsatalademande.png
 --- 19.2E
 23A3_44A_1_C00000
+2520_456_1_C00000
 
 # tv.canalsatavoircesoir.png
 --- NO DATA
@@ -1585,6 +1589,10 @@ F1F_7EB_2_11A0000
 # tv.cbbc.png
 --- 28.2E
 2870_800_2_11A0000
+
+# tv.cbbchd.png
+--- 28.2E
+1B28_802_2_11A0000
 
 # tv.cbctv.png
 --- 13.0E
@@ -6289,16 +6297,21 @@ D7EF_822_2_11A0000
 # tv.planethd-de.png
 --- NO DATA
 
-# tv.planete+.png
+# tv.planete+-pl.png
 --- 13.0E
 1136_2AF8_13E_820000
+1163_2AF8_13E_820000
+
+# tv.planete+hd-pl.png
+--- 13.0E
+379C_44C_13E_820000
+377E_44C_13E_820000
+
+# tv.planete+.png
 --- 19.2E
 2012_430_1_C00000
 
 # tv.planete+hd.png
---- 13.0E
-379C_44C_13E_820000
-377E_44C_13E_820000
 --- 19.2E
 2337_442_1_C00000
 234B_442_1_C00000
