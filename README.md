@@ -9,7 +9,7 @@ __logos.srindex:__
     ## TV ########################################################
     ##############################################################
 
-    # tv.disneycinemagicplus1.png
+    # tv.disneycinemagicplus1
     --- 9.0E
     4E86_1AF4_9C_5A0000
     --- 19.2E
@@ -17,7 +17,7 @@ __logos.srindex:__
     --- 28.2E
     232B_803_2_11A0000
 
-    # tv.canal+1hd-es.png
+    # tv.canal+1hd-es
     --- 19.2E
     7612_408_1_C00000
     74D5_3F8_1_C00000
@@ -28,7 +28,7 @@ __logos.srindex:__
     ## RADIO #####################################################
     ##############################################################
 
-    # radio.swr1badenwuerttemberg.png
+    # radio.swr1badenwuerttemberg
     --- 19.2E
     6F31_445_1_C00000
     
@@ -57,9 +57,9 @@ __Serviceref:__
 
 __Logo:__
   * Name: correct name according to `logos.srindex`
-  * Type: transparent png
-  * Resolution: as high as possible (try to get it 256px or more)
+  * Type: transparent png OR svg
+  * Resolution: as high as possible (try to get it 256px or more), for svg it shouldn't matter
   * Quality: as high as possible
-  * When adding a new logo, also make sure you add the `# tv.channelname.png` or `# radio.channelname.png` tag.
+  * When adding a new logo, also make sure you add the `# tv.channelname` or `# radio.channelname` tag.
   * It's also possible to provide a `white` version of a logo, wich should be placed in the folder `/logos/white`
 
