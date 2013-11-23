@@ -6166,14 +6166,23 @@ CB88_8FD_2_11A0000
 --- 19.2E
 33A5_3EB_1_C00000
 
-# tv.ocsmax
+# tv.ocschoc
 --- 13.0E
-1FC2_2454_13E_820000
+1FAB_2454_13E_820000
 
-# tv.ocsmaxhd
+# tv.ocschochd
 --- 19.2E
-196A_44E_1_C00000
-197E_44E_1_C00000
+1F47_42E_1_C00000
+1F51_42E_1_C00000
+
+# tv.ocscity
+--- 13.0E
+1FAA_2454_13E_820000
+
+# tv.ocscityhd
+--- 19.2E
+24BC_43C_1_C00000
+24C6_43C_1_C00000
 
 # tv.ocsgeants
 --- 13.0E
@@ -6184,31 +6193,28 @@ CB88_8FD_2_11A0000
 19CC_444_1_C00000
 19E0_444_1_C00000
 
-# tv.ocschoc
---- 13.0E
-1FAB_2454_13E_820000
-
-# tv.ocschochd
---- 19.2E
-1F47_42E_1_C00000
-1F51_42E_1_C00000
-
 # tv.ocshappy
---- 13.0E
-1FAA_2454_13E_820000
---- 19.2E
-23FC_452_1_C00000
+--- NO DATA
 
 # tv.ocshappyhd
 --- NO DATA
+
+# tv.ocsmax
+--- 13.0E
+1FC2_2454_13E_820000
+
+# tv.ocsmaxhd
+--- 13.0E
+1FC2_2454_13E_820000
+--- 19.2E
+196A_44E_1_C00000
+197E_44E_1_C00000
 
 # tv.ocsnovo
 --- NO DATA
 
 # tv.ocsnovohd
---- 19.2E
-24BC_43C_1_C00000
-24C6_43C_1_C00000
+--- NO DATA
 
 # tv.orangesportinfo
 --- NO DATA
