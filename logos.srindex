@@ -734,13 +734,13 @@ D363_81C_2_11A0000
 --- 19.2E
 74A0_41C_1_C00000
 
-# tv.bayerischesfernsehen
+# tv.bctv
+--- NO DATA
+
+# tv.br
 --- 19.2E
 6DCB_44D_1_C00000
 6DCE_44D_1_C00000
-
-# tv.bctv
---- NO DATA
 
 # tv.brhd
 --- 19.2E
