@@ -17,7 +17,7 @@
    inkscape:version="0.48.4 r9939"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docname="tv.alibi.svg">
+   sodipodi:docname="tv.alibihd.svg">
   <metadata
      id="metadata168">
     <rdf:RDF>
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -725,17 +725,17 @@
          d="m 0,0 c 0.163,0 0.287,-0.13 0.287,-0.292 0,-0.157 -0.129,-0.286 -0.287,-0.286 -0.163,0 -0.291,0.124 -0.291,0.286 C -0.291,-0.13 -0.166,0 0,0"
          id="path76234" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:117.97356415px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
-       x="141.4967"
-       y="978.20319"
-       id="text3927"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3929"
-         x="141.4967"
-         y="978.20319"
-         style="fill:#ffffff">HD</tspan></text>
+    <g
+       style="font-size:117.97356415000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
+       id="text3927">
+      <path
+         d="m 150.13735,978.20319 0,-84.44788 17.05086,0 0,33.23767 33.41048,0 0,-33.23767 17.05087,0 0,84.44788 -17.05087,0 0,-36.92435 -33.41048,0 0,36.92435 z"
+         style="fill:#ffffff"
+         id="path3144" />
+      <path
+         d="m 235.27647,893.75531 31.16392,0 c 7.02767,9e-5 12.38486,0.53773 16.07159,1.61292 4.95391,1.45939 9.19742,4.05158 12.73055,7.77658 3.53299,3.72515 6.22118,8.28548 8.06459,13.68102 1.84326,5.39565 2.76493,12.04894 2.76501,19.95988 -8e-5,6.95095 -0.86414,12.94179 -2.59219,17.97253 -2.11223,6.14448 -5.12685,11.11764 -9.04387,14.91951 -2.95709,2.88022 -6.95098,5.12679 -11.98169,6.7397 -3.76354,1.19049 -8.7943,1.78574 -15.09233,1.78574 l -32.08558,0 z m 17.05087,14.28586 0,55.93376 12.73054,0 c 4.76191,10e-6 8.19897,-0.26881 10.31117,-0.80646 2.76495,-0.69124 5.05952,-1.86252 6.88371,-3.51386 1.82408,-1.6513 3.31219,-4.3683 4.46433,-8.15101 1.15203,-3.78265 1.72807,-8.93823 1.72813,-15.46675 -6e-5,-6.52843 -0.5761,-11.54 -1.72813,-15.03471 -1.15214,-3.4946 -2.76506,-6.2212 -4.83876,-8.17981 -2.0738,-1.95848 -4.7044,-3.28338 -7.89178,-3.9747 -2.38103,-0.53757 -7.04697,-0.80639 -13.99784,-0.80646 z"
+         style="fill:#ffffff"
+         id="path3146" />
+    </g>
   </g>
 </svg>

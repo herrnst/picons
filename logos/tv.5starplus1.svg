@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tv.5star.svg">
+   sodipodi:docname="tv.5starplus1.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -170,7 +170,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -220,17 +220,17 @@
            transform="matrix(3.0808096,0,0,3.0808096,2550.6981,-521.8613)" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
+    <g
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#dc22dd;fill-opacity:1;stroke:none;font-family:Sans"
-       x="364.46878"
-       y="441.78638"
-       id="text3016"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3018"
-         x="364.46878"
-         y="441.78638"
-         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#dc22dd;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold">+1</tspan></text>
+       id="text3016">
+      <path
+         d="m 380.95706,434.36841 0,-13.39453 -13.5,0 0,-9.2461 13.5,0 0,-13.39453 9,0 0,13.39453 13.53516,0 0,9.2461 -13.53516,0 0,13.39453 z"
+         style="font-size:72px;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#dc22dd;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path3012" />
+      <path
+         d="m 434.85159,441.78638 -9.8789,0 0,-37.23047 c -3.60939,3.37503 -7.8633,5.87112 -12.76172,7.48828 l 0,-8.96484 c 2.57811,-0.84371 5.37889,-2.44332 8.40234,-4.79883 3.02342,-2.35543 5.09764,-5.10347 6.22266,-8.24414 l 8.01562,0 z"
+         style="font-size:72px;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#dc22dd;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         id="path3014" />
+    </g>
   </g>
 </svg>

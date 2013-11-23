@@ -13,7 +13,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tv.alekino+.svg">
+   sodipodi:docname="tv.alekino+hd.svg">
   <metadata
      id="metadata47">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -153,16 +153,16 @@
        inkscape:connector-curvature="0"
        style="fill:#000000" />
   </g>
-  <text
-     xml:space="preserve"
+  <g
      style="font-size:42.52695847px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#c41e1d;fill-opacity:1;stroke:none;font-family:Sans"
-     x="546.43036"
-     y="86.983002"
-     id="text3024"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3026"
-       x="546.43036"
-       y="86.983002"
-       style="font-size:59.53774261px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#c41e1d;fill-opacity:1;font-family:Arial;-inkscape-font-specification:Arial Bold Oblique">HD</tspan></text>
+     id="text3024">
+    <path
+       d="m 578.26328,67.94139 -16.48335,0 -3.98275,19.041612 -8.77949,0 8.92485,-42.618326 8.75042,0 -3.4304,16.454279 16.48335,0 3.45947,-16.454279 8.75042,0 -8.89578,42.618326 -8.77949,0 z"
+       style="font-size:59.53774261px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#c41e1d;font-family:Arial;-inkscape-font-specification:Arial Bold Oblique"
+       id="path3006" />
+    <path
+       d="m 592.04301,86.983002 8.92485,-42.618326 11.48311,0 c 3.1978,4.3e-5 5.24247,0.04849 6.13402,0.145356 1.76362,0.174469 3.3383,0.533013 4.72406,1.075633 1.38569,0.542703 2.64544,1.303397 3.77925,2.282086 1.13374,0.978768 2.11247,2.156149 2.93619,3.532147 0.82364,1.376069 1.45836,2.960446 1.90416,4.753135 0.44572,1.792751 0.66859,3.755052 0.66864,5.886911 -5e-5,4.593264 -0.87703,8.668068 -2.63094,12.224424 -1.754,3.556381 -3.95856,6.381126 -6.61369,8.474244 -2.03502,1.627988 -4.66111,2.829595 -7.87829,3.604824 -1.82182,0.426377 -4.62233,0.639566 -8.40156,0.639566 z m 10.20398,-6.860795 4.44789,0 c 3.21719,7e-6 5.54772,-0.198646 6.99162,-0.595959 1.44384,-0.397298 2.76657,-1.138612 3.96821,-2.223944 1.72486,-1.569831 3.17842,-3.662953 4.36067,-6.279371 1.1822,-2.616386 1.77331,-5.697926 1.77334,-9.24463 -3e-5,-3.023373 -0.48939,-5.295766 -1.46809,-6.817188 -0.97876,-1.521357 -2.18521,-2.534002 -3.61936,-3.037936 -1.00783,-0.348819 -2.80055,-0.523246 -5.37816,-0.523281 l -5.08746,0 z"
+       style="font-size:59.53774261px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#c41e1d;font-family:Arial;-inkscape-font-specification:Arial Bold Oblique"
+       id="path3008" />
+  </g>
 </svg>

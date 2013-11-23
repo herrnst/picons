@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tv.canalhollywood.svg">
+   sodipodi:docname="tv.canalhollywoodhd.svg">
   <metadata
      id="metadata23">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -149,17 +149,17 @@
        style="fill:#009dd5"
        transform="matrix(12.84616,0,0,12.84616,-335.49823,-1933.2229)"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
+    <g
        style="font-size:65.69219971px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#009dd5;fill-opacity:1;stroke:none;font-family:Sans"
-       x="618.77179"
-       y="607.14813"
-       id="text3000"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3002"
-         x="618.77179"
-         y="607.14813"
-         style="font-weight:bold;fill:#009dd5;fill-opacity:1;-inkscape-font-specification:Sans Bold">HD</tspan></text>
+       id="text3000">
+      <path
+         d="m 623.58323,607.14813 0,-47.02381 9.49458,0 0,18.50801 18.60423,0 0,-18.50801 9.49458,0 0,47.02381 -9.49458,0 0,-20.56089 -18.60423,0 0,20.56089 z"
+         style="font-weight:bold;fill:#009dd5;-inkscape-font-specification:Sans Bold"
+         id="path3000" />
+      <path
+         d="m 670.99195,560.12432 17.35327,0 c 3.91328,5e-5 6.89637,0.29943 8.94928,0.89814 2.75852,0.81264 5.12147,2.25607 7.08885,4.33029 1.96731,2.07431 3.4642,4.61368 4.49068,7.61812 1.0264,3.00451 1.53962,6.70931 1.53966,11.11442 -4e-5,3.87056 -0.48119,7.20649 -1.44343,10.0078 -1.17617,3.42148 -2.85483,6.19073 -5.03598,8.30775 -1.64661,1.60382 -3.87057,2.85479 -6.67186,3.75293 -2.09568,0.66291 -4.897,0.99436 -8.40398,0.99436 l -17.86649,0 z m 9.49458,7.95492 0,31.14605 7.08886,0 c 2.65161,10e-6 4.56549,-0.14968 5.74165,-0.44906 1.53963,-0.38491 2.81733,-1.03713 3.83311,-1.95666 1.01572,-0.9195 1.84436,-2.43243 2.48591,-4.53879 0.64149,-2.10632 0.96226,-4.97715 0.96229,-8.61248 -3e-5,-3.63528 -0.3208,-6.42591 -0.96229,-8.3719 -0.64155,-1.94593 -1.53969,-3.4642 -2.6944,-4.55483 -1.15478,-1.09056 -2.61959,-1.82831 -4.39445,-2.21327 -1.32585,-0.29934 -3.92402,-0.44902 -7.79454,-0.44906 z"
+         style="font-weight:bold;fill:#009dd5;-inkscape-font-specification:Sans Bold"
+         id="path3002" />
+    </g>
   </g>
 </svg>

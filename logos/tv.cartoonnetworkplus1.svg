@@ -13,7 +13,7 @@
    version="1.1"
    id="svg2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tv.cartoonnetwork.svg">
+   sodipodi:docname="tv.cartoonnetworkplus1.svg">
   <metadata
      id="metadata60">
     <rdf:RDF>
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -157,15 +157,16 @@
      id="path38"
      style="fill:#000000;fill-opacity:1;stroke:none"
      inkscape:connector-curvature="0" />
-  <text
-     xml:space="preserve"
+  <g
      style="font-size:328.06958008px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-     x="1250.9569"
-     y="589.34552"
-     id="text3001"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3003"
-       x="1250.9569"
-       y="589.34552">+1</tspan></text>
+     id="text3001">
+    <path
+       d="m 1326.0861,555.54538 0,-61.03247 -61.513,0 0,-42.13003 61.513,0 0,-61.03248 41.0087,0 0,61.03248 61.6733,0 0,42.13003 -61.6733,0 0,61.03247 z"
+       style=""
+       id="path3004" />
+    <path
+       d="m 1571.6577,589.34552 -45.0134,0 0,-169.64145 c -16.4463,15.37842 -35.8293,26.75191 -58.1491,34.12052 l 0,-40.84851 c 11.7473,-3.84438 24.5091,-11.13303 38.2855,-21.86596 13.7763,-10.73254 23.2275,-23.25406 28.3537,-37.56461 l 36.5233,0 z"
+       style=""
+       id="path3006" />
+  </g>
 </svg>

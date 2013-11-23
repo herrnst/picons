@@ -19,10 +19,10 @@
    enable-background="new 0 0 200 70"
    xml:space="preserve"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tv.bet.svg"><metadata
+   sodipodi:docname="tv.betplus1.svg"><metadata
    id="metadata9"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs7" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -53,15 +53,13 @@
    inkscape:connector-curvature="0"
    sodipodi:nodetypes="ccccccccccccscccscsccscsccscccccccsccccccccsccccccccscccscc"
    style="fill:#000000;stroke:none" />
-<text
-   xml:space="preserve"
+<g
    style="font-size:77.59114075px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
-   x="199.37149"
-   y="58.53241"
-   id="text2982"
-   sodipodi:linespacing="125%"><tspan
-     sodipodi:role="line"
-     id="tspan2984"
-     x="199.37149"
-     y="58.53241">+1</tspan></text>
+   id="text2982"><path
+     d="m 217.14016,50.538401 0,-14.43468 -14.54833,0 0,-9.964097 14.54833,0 0,-14.43468 9.6989,0 0,14.43468 14.58622,0 0,9.964097 -14.58622,0 0,14.43468 z"
+     style=""
+     id="path2985" /><path
+     d="m 275.21986,58.53241 -10.64605,0 0,-40.121591 c -3.88967,3.637121 -8.47391,6.327046 -13.75272,8.069782 l 0,-9.661007 c 2.77832,-0.909228 5.79659,-2.633053 9.05482,-5.17148 3.25821,-2.5383322 5.49349,-5.499775 6.70588,-8.8843367 l 8.63807,0 z"
+     style=""
+     id="path2987" /></g>
 </svg>

@@ -14,7 +14,7 @@
    height="290.48032"
    id="svg1883"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tv.boomerang.svg">
+   sodipodi:docname="tv.boomerangplus1.svg">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,16 +70,16 @@
        style="fill:#005aaa;fill-rule:nonzero;stroke:none"
        id="path6161" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-size:83.07324219000000200px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#005baa;fill-opacity:1;stroke:none;font-family:Sans"
-     x="465.46329"
-     y="279.22253"
-     id="text2989"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan2991"
-       x="465.46329"
-       y="279.22253"
-       style="font-size:132.91719055000002000px;font-weight:bold;-inkscape-font-specification:Sans Bold;fill:#005baa;fill-opacity:1">+1</tspan></text>
+  <g
+     style="font-size:83.07324219px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#005baa;fill-opacity:1;stroke:none;font-family:Sans"
+     id="text2989">
+    <path
+       d="m 495.90184,265.52843 0,-24.72727 -24.92197,0 0,-17.06896 24.92197,0 0,-24.72727 16.61465,0 0,24.72727 24.98688,0 0,17.06896 -24.98688,0 0,24.72727 z"
+       style="font-size:132.91719055px;font-weight:bold;fill:#005baa;-inkscape-font-specification:Sans Bold"
+       id="path2990" />
+    <path
+       d="m 595.39503,279.22253 -18.23717,0 0,-68.73013 c -6.6632,6.23056 -14.51621,10.83853 -23.55906,13.82391 l 0,-16.54975 c 4.75939,-1.55755 9.92983,-4.51054 15.51134,-8.85898 5.58145,-4.34828 9.4106,-9.42137 11.48747,-15.21928 l 14.79742,0 z"
+       style="font-size:132.91719055px;font-weight:bold;fill:#005baa;-inkscape-font-specification:Sans Bold"
+       id="path2992" />
+  </g>
 </svg>

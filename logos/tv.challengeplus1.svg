@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tv.challenge.svg">
+   sodipodi:docname="tv.challengeplus1.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,17 +116,17 @@
        d="m 679.66909,-298.50499 c -26.82796,0 -56.18207,20.55313 -56.18207,55.78572 0,34.64024 28.16362,57.50322 58.09774,57.50322 14.01667,0 26.87268,-5.87435 30.84894,-9.71048 l 0,9.5123 c 0,12.61887 -13.03592,27.48 -29.23053,27.48 l -54.26639,0 0,24.30923 53.90307,0 c 26.97693,0 54.96,-19.80534 54.96,-54.96 l 0,-109.91999 -58.13076,0 z m 0,24.30923 32.76461,0 0,31.70769 c 0,19.12175 -13.21046,32.69856 -30.74986,32.69856 -18.85059,0 -32.92975,-15.12255 -32.92975,-32.66553 0,-15.55067 12.26177,-31.74072 30.915,-31.74072 z"
        id="path3022"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
+    <g
        style="font-size:133.96131897px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f6710a;fill-opacity:1;stroke:none;font-family:Sans"
-       x="897.19855"
-       y="-197.51694"
-       id="text3000"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3002"
-         x="897.19855"
-         y="-197.51694"
-         style="font-weight:bold;fill:#f6710a;fill-opacity:1;-inkscape-font-specification:Sans Bold">+1</tspan></text>
+       id="text3000">
+      <path
+         d="m 927.87621,-211.31862 0,-24.92151 -25.11774,0 0,-17.20304 25.11774,0 0,-24.92152 16.74517,0 0,24.92152 25.18316,0 0,17.20304 -25.18316,0 0,24.92151 z"
+         style="font-weight:bold;fill:#f6710a;-inkscape-font-specification:Sans Bold"
+         id="path2995" />
+      <path
+         d="m 1028.151,-197.51694 -18.3805,0 0,-69.27003 c -6.7155,6.2795 -14.6302,10.92366 -23.74409,13.9325 l 0,-16.67976 c 4.79678,-1.56978 10.00783,-4.54597 15.63319,-8.92857 5.6253,-4.38244 9.4845,-9.49538 11.5777,-15.33884 l 14.9137,0 z"
+         style="font-weight:bold;fill:#f6710a;-inkscape-font-specification:Sans Bold"
+         id="path2997" />
+    </g>
   </g>
 </svg>

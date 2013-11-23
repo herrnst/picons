@@ -17,7 +17,7 @@
    inkscape:version="0.48.4 r9939"
    version="1.0"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   sodipodi:docname="tv.alibihd.svg">
+   sodipodi:docname="tv.alibiplus1.svg">
   <metadata
      id="metadata168">
     <rdf:RDF>
@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,7 +46,7 @@
      id="namedview164"
      showgrid="false"
      inkscape:zoom="0.65921788"
-     inkscape:cx="-80.864941"
+     inkscape:cx="-337.22935"
      inkscape:cy="179"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -725,17 +725,17 @@
          d="m 0,0 c 0.163,0 0.287,-0.13 0.287,-0.292 0,-0.157 -0.129,-0.286 -0.287,-0.286 -0.163,0 -0.291,0.124 -0.291,0.286 C -0.291,-0.13 -0.166,0 0,0"
          id="path76234" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:117.97356415px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
-       x="159.14925"
-       y="978.20319"
-       id="text3927"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3929"
-         x="159.14925"
-         y="978.20319"
-         style="fill:#ffffff">+1</tspan></text>
+    <g
+       style="font-size:117.97356415000000000px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
+       id="text3927">
+      <path
+         d="m 186.16565,966.04868 0,-21.94723 -22.12004,0 0,-15.14992 22.12004,0 0,-21.94723 14.7467,0 0,21.94723 22.17765,0 0,15.14992 -22.17765,0 0,21.94723 z"
+         style="fill:#ffffff;fill-opacity:1"
+         id="path3144" />
+      <path
+         d="m 274.47301,978.20319 -16.1868,0 0,-61.00294 c -5.91407,5.53007 -12.88418,9.61997 -20.91036,12.26972 l 0,-14.6891 c 4.2243,-1.38243 8.81344,-4.00343 13.76743,-7.86298 4.95394,-3.85941 8.35259,-8.36214 10.19595,-13.5082 l 13.13378,0 z"
+         style="fill:#ffffff;fill-opacity:1"
+         id="path3146" />
+    </g>
   </g>
 </svg>

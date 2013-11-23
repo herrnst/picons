@@ -15,7 +15,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
    version="1.0"
-   sodipodi:docname="tv.cbsreality.svg">
+   sodipodi:docname="tv.cbsrealityplus1.svg">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -141,17 +141,17 @@
        clip-path="url(#SVGID_50_)"
        transform="matrix(11.28893,0,0,11.28893,-3115.2715,-5077.9296)"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
+    <g
        style="font-size:82.19345093px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff6100;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1150.2053"
-       y="463.30313"
-       id="text2997"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2999"
-         x="1150.2053"
-         y="463.30313"
-         style="font-size:131.50952148px;font-weight:bold;fill:#ff6100;fill-opacity:1;-inkscape-font-specification:Sans Bold">+1</tspan></text>
+       id="text2997">
+      <path
+         d="m 1180.3215,449.75405 0,-24.46539 -24.658,0 0,-16.88819 24.658,0 0,-24.46539 16.4387,0 0,24.46539 24.7223,0 0,16.88819 -24.7223,0 0,24.46539 z"
+         style="font-size:131.50952148px;font-weight:bold;fill:#ff6100;-inkscape-font-specification:Sans Bold"
+         id="path2997" />
+      <path
+         d="m 1278.761,463.30313 -18.044,0 0,-68.00224 c -6.5926,6.16457 -14.3625,10.72374 -23.3096,13.67751 l 0,-16.37448 c 4.709,-1.54105 9.8247,-4.46277 15.3471,-8.76516 5.5223,-4.30223 9.3109,-9.32159 11.3658,-15.0581 l 14.6407,0 z"
+         style="font-size:131.50952148px;font-weight:bold;fill:#ff6100;-inkscape-font-specification:Sans Bold"
+         id="path2999" />
+    </g>
   </g>
 </svg>

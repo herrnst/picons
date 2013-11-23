@@ -15,7 +15,7 @@
    sodipodi:version="0.32"
    inkscape:version="0.48.4 r9939"
    version="1.0"
-   sodipodi:docname="tv.nationalgeographic.svg"
+   sodipodi:docname="tv.nationalgeographicplus1.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
      id="defs4" />
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -183,17 +183,17 @@
        id="path10804"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 766.34305,261.86421 16.68663,0 0,84.53377 33.01823,0 0,13.10079 -49.70486,0" />
-    <text
-       xml:space="preserve"
+    <g
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-       x="840.4469"
-       y="358.93909"
-       id="text3012"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3014"
-         x="840.4469"
-         y="358.93909"
-         style="font-size:144px;font-weight:bold;-inkscape-font-specification:Arial Bold">+1</tspan></text>
+       id="text3012">
+      <path
+         d="m 873.42346,344.10315 0,-26.78906 -27,0 0,-18.49219 27,0 0,-26.78906 18,0 0,26.78906 27.07031,0 0,18.49219 -27.07031,0 0,26.78906 z"
+         style="font-size:144px;font-weight:bold;-inkscape-font-specification:Arial Bold"
+         id="path3011" />
+      <path
+         d="m 981.21252,358.93909 -19.75781,0 0,-74.46094 c -7.21878,6.75007 -15.72658,11.74225 -25.52344,14.97656 l 0,-17.92969 c 5.15624,-1.68742 10.75779,-4.88663 16.80469,-9.59765 6.04684,-4.71085 10.19528,-10.20694 12.44531,-16.48828 l 16.03125,0 z"
+         style="font-size:144px;font-weight:bold;-inkscape-font-specification:Arial Bold"
+         id="path3013" />
+    </g>
   </g>
 </svg>

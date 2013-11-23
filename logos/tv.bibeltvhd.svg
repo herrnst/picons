@@ -15,7 +15,7 @@
    id="svg3131"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tv.bibeltv.svg">
+   sodipodi:docname="tv.bibeltvhd.svg">
   <defs
      id="defs3133">
     <mask
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,23 +124,21 @@
          width="1"
          style="fill:none" />
     </g>
-    <text
-       xml:space="preserve"
+    <g
        style="font-size:307.42544556px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0a5286;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Sans Bold"
-       x="1200.1349"
-       y="619.16187"
-       id="text3002"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3004"
-         x="1200.1349"
-         y="619.16187">HD</tspan></text>
-    <rect
-       style="fill:none;stroke:#0a5286;stroke-width:28.3425045;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3006"
-       width="534.81183"
-       height="345.60953"
-       x="1158.4144"
-       y="335.43109" />
+       id="text3002">
+      <path
+         d="m 1222.6514,619.16187 0,-220.06138 44.4326,0 0,86.61351 87.0638,0 0,-86.61351 44.4326,0 0,220.06138 -44.4326,0 0,-96.22057 -87.0638,0 0,96.22057 z"
+         style=""
+         id="path3000" />
+      <path
+         d="m 1444.5141,399.10049 81.2096,0 c 18.3133,2.2e-4 32.2735,1.40124 41.8807,4.20308 12.9093,3.803 23.9674,10.55795 33.1743,20.26486 9.2066,9.7073 16.2117,21.59101 21.0154,35.65114 4.8033,14.06046 7.2051,31.39816 7.2053,52.01315 -2e-4,18.11337 -2.2519,33.7248 -6.755,46.83434 -5.5042,16.01179 -13.36,28.97128 -23.5672,38.87851 -7.7059,7.50552 -18.1135,13.35981 -31.2229,17.56288 -9.8074,3.10228 -22.917,4.65342 -39.3289,4.65342 l -83.6113,0 z m 44.4326,37.2273 0,145.75689 33.1743,0 c 12.409,3e-5 21.3656,-0.70048 26.8697,-2.10155 7.2052,-1.80128 13.1845,-4.85351 17.9382,-9.15671 4.7533,-4.3031 8.6311,-11.38329 11.6335,-21.24058 3.002,-9.85715 4.5031,-23.29199 4.5033,-40.30455 -2e-4,-17.01235 -1.5013,-30.07192 -4.5033,-39.17874 -3.0024,-9.10652 -7.2054,-16.21172 -12.6092,-21.31563 -5.4041,-5.10356 -12.2592,-8.55609 -20.5651,-10.35759 -6.2047,-1.40085 -18.3636,-2.10136 -36.4768,-2.10154 z"
+         style=""
+         id="path3002" />
+    </g>
+    <path
+       style="fill:none;stroke:#0a5286;stroke-width:28.3425045;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 1158.4144,335.43109 534.8119,0 0,345.60953 -534.8119,0 z"
+       id="rect3006" />
   </g>
 </svg>
