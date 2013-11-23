@@ -57,7 +57,7 @@ __Serviceref:__
 
 __Logo:__
   * Name: correct name according to `logos.srindex`
-  * Type: transparent png OR svg
+  * Type: transparent png OR svg(=BEST)
   * Resolution: as high as possible (try to get it 256px or more), for svg it shouldn't matter
   * Quality: as high as possible
   * When adding a new logo, also make sure you add the `# tv.channelname` or `# radio.channelname` tag.
