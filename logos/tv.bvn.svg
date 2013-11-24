@@ -41,8 +41,8 @@
        color-interpolation-filters="sRGB"
        id="filter">
       <feGaussianBlur
-         id="feGaussianBlur5416"
-         stdDeviation="5.0" />
+         stdDeviation="5.0"
+         id="feGaussianBlur5416" />
     </filter>
   </defs>
   <path
