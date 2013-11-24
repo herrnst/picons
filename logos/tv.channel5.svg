@@ -100,6 +100,7 @@
      id="layer1">
     <path
        d="m 435,182.36218 a 34,34 0 1 1 -68,0 34,34 0 1 1 68,0 z"
+       inkscape:connector-curvature="0"
        transform="matrix(2.9117638,0,0,2.9117638,447.38541,167.36819)"
        id="path2924"
        style="fill:#c81e3b;fill-opacity:1;fill-rule:nonzero;stroke:none" />

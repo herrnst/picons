@@ -30,6 +30,7 @@
      id="layer1">
     <path
        d="m 965.71426,669.50507 a 654.28571,654.28571 0 1 1 -1308.57141,0 654.28571,654.28571 0 1 1 1308.57141,0 z"
+       inkscape:connector-curvature="0"
        transform="translate(15.7143,15.7143)"
        id="path1872"
        style="fill:#1f60a9;fill-opacity:1;fill-rule:nonzero;stroke:none" />

@@ -688,6 +688,7 @@
       </g>
       <path
          d="m 315.98599,292.10748 a 8.9848309,8.9848309 0 1 1 -17.96966,0 8.9848309,8.9848309 0 1 1 17.96966,0 z"
+         inkscape:connector-curvature="0"
          transform="matrix(1.8961038,0,0,1.9285714,-456.27736,317.75594)"
          id="path7133"
          style="fill:url(#linearGradient7513);fill-opacity:1;fill-rule:evenodd;stroke:none" />

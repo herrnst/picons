@@ -100,11 +100,13 @@
      id="layer1">
     <path
        d="m 354.99999,296.8822 a 37.570671,37.570671 0 1 1 -75.14134,0 37.570671,37.570671 0 1 1 75.14134,0 z"
+       inkscape:connector-curvature="0"
        transform="matrix(1.584886,0,0,1.584886,-272.54406,-25.63316)"
        id="path3076"
        style="fill:#dc22dd;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
        d="m 354.99999,296.8822 a 37.570671,37.570671 0 1 1 -75.14134,0 37.570671,37.570671 0 1 1 75.14134,0 z"
+       inkscape:connector-curvature="0"
        transform="matrix(1.584886,0,0,1.584886,-193.63452,-25.63316)"
        id="path3078"
        style="fill:#dc22dd;fill-opacity:1;fill-rule:nonzero;stroke:none" />

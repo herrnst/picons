@@ -107,6 +107,7 @@
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.80000806;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     <path
        d="m 282,358.89789 a 16.625,16.625 0 1 1 -33.25,0 16.625,16.625 0 1 1 33.25,0 z"
+       inkscape:connector-curvature="0"
        transform="matrix(2.2960566,0,0,2.2960566,-364.42957,-358.66352)"
        id="path3067"
        style="fill:#02a16b;fill-opacity:1;stroke:none" />

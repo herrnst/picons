@@ -20,7 +20,7 @@
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Logo Canal Algerie</dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs44" />
 <polygon
-   points="840.34,13.75 1312.209,990.94 1006.27,990.94 957.21,862.09 700.13,862.09 700.18,648.75 851.17,648.34 617.84,13.75 "
+   points="1312.209,990.94 1006.27,990.94 957.21,862.09 700.13,862.09 700.18,648.75 851.17,648.34 617.84,13.75 840.34,13.75 "
    id="polygon3"
    style="fill:#ed3921" />
 <radialGradient

@@ -388,6 +388,6 @@
     </g>
   </g>
   <html:div
-     style="display:none"
-     id="_wi2geoGate" />
+     id="_wi2geoGate"
+     style="display:none" />
 </svg>

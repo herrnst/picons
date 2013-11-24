@@ -745,6 +745,7 @@
           </g>
           <path
              d="m 315.98599,292.10748 a 8.9848309,8.9848309 0 1 1 -17.96966,0 8.9848309,8.9848309 0 1 1 17.96966,0 z"
+             inkscape:connector-curvature="0"
              transform="matrix(0.41641657,0,0,0.42354699,40.753632,548.19419)"
              id="path7133"
              style="fill:url(#linearGradient7441);fill-opacity:1;fill-rule:evenodd;stroke:none" />

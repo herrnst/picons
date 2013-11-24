@@ -47,7 +47,7 @@
    xlink:href="#linearGradient3867"
    gradientUnits="userSpaceOnUse" /></defs>
  <polygon
-   points="0,187.92 0,109.08 0,109.08 210,109.08 210,187.92 "
+   points="0,109.08 0,109.08 210,109.08 210,187.92 0,187.92 "
    transform="matrix(2.7234218,0,0,1.984872,-210.05011,-216.50984)"
    id="_74801392"
    style="fill:url(#linearGradient3873);fill-opacity:1" /><path
