@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="422"
    height="174"
-   id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="tv.hbo.svg">
+   id="svg2">
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -21,47 +20,27 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs11" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
-     id="namedview9"
-     showgrid="false"
-     inkscape:zoom="0.83649289"
-     inkscape:cx="8.9660057"
-     inkscape:cy="87"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <path
-     d="M 206,1.8 C 219,1.8 256,8.9 256,45.3 256,74.6 242,83.3 231,85.3 223,86.8 254,85.3 254,122 254,174 209,172 209,172 L 134,172 134,1.8 z M 176,43.3 176,69 201,69 C 201,69 211,67.8 211,55.5 211,43.2 201,43.3 201,43.3 z M 176,106 176,132 201,132 C 201,132 211,131 211,118 211,106 201,106 201,106 z M 0,1.8 0,172 47,172 47,109 77,109 77,172 124,172 124,1.8 77,1.8 77,66 47,66 47,1.8 z"
+     d="m 206,1.8 c 13,0 50,7.1 50,43.5 0,29.3 -14,38 -25,40 -8,1.5 23,0 23,36.7 0,52 -45,50 -45,50 l -75,0 0,-170.2 z m -30,41.5 0,25.7 25,0 c 0,0 10,-1.2 10,-13.5 0,-12.3 -10,-12.2 -10,-12.2 z m 0,62.7 0,26 25,0 c 0,0 10,-1 10,-14 0,-12 -10,-12 -10,-12 z M 0,1.8 0,172 l 47,0 0,-63 30,0 0,63 47,0 0,-170.2 -47,0 0,64.2 -30,0 0,-64.2 z"
+     inkscape:connector-curvature="0"
      id="path3"
-     style="fill-rule:nonzero;fill:#ffffff" />
+     style="fill:#ffffff;fill-rule:nonzero" />
   <circle
      cx="335"
      cy="87"
      r="65"
-     style="fill:none;stroke:#ffffff;stroke-width:44;stroke-opacity:1;fill-opacity:1"
-     id="circle5" />
+     id="circle5"
+     style="fill:none;stroke:#ffffff;stroke-width:44;stroke-opacity:1" />
   <circle
      cx="335"
      cy="87"
      r="35"
-     fill="#000"
      id="circle7"
      style="fill:#ffffff" />
 </svg>
