@@ -101,7 +101,7 @@ piconlink superrtlhd 1_0_19_8150_14B_270F_FFFF0000_0_0_0
 # KIKA HD
 piconlink kikahd 1_0_19_2B91_6F_270F_FFFF0000_0_0_0
 # Nickelodeon HD
-# piconlink nickelodeonhd 1_0_19_AC4A_1B9_270F_FFFF0000_0_0_0
+piconlink nickhd 1_0_19_AC4A_1B9_270F_FFFF0000_0_0_0
 # ZDF_neo HD
 piconlink zdfneohd 1_0_19_A08F_191_270F_FFFF0000_0_0_0
 # Nitro HD
@@ -343,7 +343,7 @@ piconlink superrtl 1_0_1_2F4B_A1_270F_FFFF0000_0_0_0
 # KiKA
 piconlink kika 1_0_1_6D68_437_66_FFFF0000_0_0_0
 # Nickelodeon/Nicknight
-# piconlink nickelodeon 1_0_1_2B60_BF_270F_FFFF0000_0_0_0
+piconlink nick 1_0_1_2B60_BF_270F_FFFF0000_0_0_0
 # TOGGO plus
 piconlink toggoplus 1_0_1_6211_83_270F_FFFF0000_0_0_0
 # RiC
@@ -1132,7 +1132,7 @@ piconlink n24hd 1_0_1F_4241_4061_2114_EEEE0000_0_0_0
 # QVC HD
 piconlink qvchd 1_0_1F_4246_4061_2114_EEEE0000_0_0_0
 # NICK HD
-# piconlink nickhd 1_0_1F_4244_4061_2114_EEEE0000_0_0_0
+piconlink nickhd 1_0_1F_4244_4061_2114_EEEE0000_0_0_0
 # Infokanal
-# piconlink dvbt2hdinfokanal 1_0_1F_4245_4061_2114_EEEE0000_0_0_0
+piconlink dvbt2hdinfokanal 1_0_1F_4245_4061_2114_EEEE0000_0_0_0
 
