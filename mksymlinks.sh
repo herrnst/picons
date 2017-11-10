@@ -105,7 +105,7 @@ piconlink nickhd 1_0_19_AC4A_1B9_270F_FFFF0000_0_0_0
 # ZDF_neo HD
 piconlink zdfneohd 1_0_19_A08F_191_270F_FFFF0000_0_0_0
 # Nitro HD
-piconlink rtlnitrohd 1_0_19_8151_14B_270F_FFFF0000_0_0_0
+piconlink nitrohd 1_0_19_8151_14B_270F_FFFF0000_0_0_0
 # Sat.1 Gold HD
 piconlink sat1goldhd 1_0_19_7D6A_141_270F_FFFF0000_0_0_0
 # Tele 5 HD
@@ -143,7 +143,7 @@ piconlink universalchannelhd 1_0_19_2B92_6F_270F_FFFF0000_0_0_0
 # Romance TV HD
 piconlink romancetvhd 1_0_19_797F_1AF_270F_FFFF0000_0_0_0
 # TNT Comedy HD
-#piconlink tntcomedyhd 1_0_19_94D6_1AF_270F_FFFF0000_0_0_0
+piconlink tntcomedyhd 1_0_19_94D6_1AF_270F_FFFF0000_0_0_0
 # RTL Passion HD
 piconlink rtlpassionhd 1_0_19_B416_187_270F_FFFF0000_0_0_0
 # Sport1 HD
@@ -289,9 +289,9 @@ piconlink sonlifetv 1_0_1_4E85_1E1_270F_FFFF0000_0_0_0
 # God.TV
 piconlink godtv 1_0_1_5E3B_F1_270F_FFFF0000_0_0_0
 # Health TV
-# piconlink healthtv 1_0_1_5E3C_F1_270F_FFFF0000_0_0_0
+piconlink healthtv 1_0_1_5E3C_F1_270F_FFFF0000_0_0_0
 # Welt der Wunder
-# piconlink weltderwunder 1_0_1_566E_DD_270F_FFFF0000_0_0_0
+piconlink weltderwunder 1_0_1_566E_DD_270F_FFFF0000_0_0_0
 # National Geographic
 piconlink nationalgeographic 1_0_1_3F5_4_85_FFFF0000_0_0_0
 # Spiegel TV Wissen
@@ -367,7 +367,7 @@ piconlink babytv 1_0_1_5271_D3_270F_FFFF0000_0_0_0
 # zdf_neo
 piconlink zdfneo 1_0_1_6D6E_437_66_FFFF0000_0_0_0
 # Nitro
-piconlink rtlnitro 1_0_1_75A2_B5_270F_FFFF0000_0_0_0
+piconlink nitro 1_0_1_75A2_B5_270F_FFFF0000_0_0_0
 # Sat.1 Gold
 piconlink sat1gold 1_0_1_71B6_B5_270F_FFFF0000_0_0_0
 # Tele 5
@@ -413,7 +413,7 @@ piconlink sat1emotions 1_0_1_3339_83_270F_FFFF0000_0_0_0
 # Romance TV
 piconlink romancetv 1_0_1_372B_8D_270F_FFFF0000_0_0_0
 # TNT Comedy
-# piconlink tntcomedy 1_0_1_6606_1CD_270F_FFFF0000_0_0_0
+piconlink tntcomedy 1_0_1_6606_1CD_270F_FFFF0000_0_0_0
 # SONY CHANNEL
 piconlink sonytv 1_0_1_4E9B_1D7_270F_FFFF0000_0_0_0
 # RTL Passion
@@ -575,7 +575,7 @@ piconlink rtk1 1_0_1_6228_1D7_270F_FFFF0000_0_0_0
 # RTV21
 piconlink rtv21 1_0_1_622E_1E1_270F_FFFF0000_0_0_0
 # Nederland 2
-# piconlink nederland2 1_0_1_CF77_213_270F_FFFF0000_0_0_0
+piconlink npo2 1_0_1_CF77_213_270F_FFFF0000_0_0_0
 # BVN
 piconlink bvn 1_0_1_42E0_AB_270F_FFFF0000_0_0_0
 # TV5MONDE Europe
@@ -779,7 +779,7 @@ piconlink bluemovie2 1_0_D3_163_2_85_FFFF0000_0_0_0
 # Blue Movie 3
 piconlink bluemovie3 1_0_D3_16D_2_85_FFFF0000_0_0_0
 # Netflix
-# piconlink netflix 1_0_1_CB84_DD_270F_FFFF0000_0_0_0
+piconlink netflix 1_0_1_CB84_DD_270F_FFFF0000_0_0_0
 
 # Radio
 ########
@@ -1094,7 +1094,7 @@ piconlink rtlhd 1_0_1F_4209_4004_2114_EEEE0000_0_0_0
 # RTL II HD
 piconlink rtl2hd 1_0_1F_4203_4004_2114_EEEE0000_0_0_0
 # RTL NITRO HD
-piconlink rtlnitrohd 1_0_1F_4205_4004_2114_EEEE0000_0_0_0
+piconlink nitrohd 1_0_1F_4205_4004_2114_EEEE0000_0_0_0
 # SUPER RTL HD
 piconlink superrtlhd 1_0_1F_4202_4004_2114_EEEE0000_0_0_0
 # Tele 5 HD
