@@ -45,9 +45,9 @@ piconlink wdrhd 1_0_19_2B93_6F_270F_FFFF0000_0_0_0
 # hr-fernsehen HD
  piconlink hessenfernsehenhd 1_0_19_DB29_231_270F_FFFF0000_0_0_0
 # BR Fernsehen Sued HD
-piconlink bayerischesfernsehen 1_0_19_D743_23B_270F_FFFF0000_0_0_0
+piconlink bayerischesfernsehenhd 1_0_19_D743_23B_270F_FFFF0000_0_0_0
 # NDR Niedersachsen HD
-piconlink ndr 1_0_19_CF73_23B_270F_FFFF0000_0_0_0
+piconlink ndrhd 1_0_19_CF73_23B_270F_FFFF0000_0_0_0
 # SWR BW HD
 piconlink swrhd 1_0_19_DB2A_231_270F_FFFF0000_0_0_0
 # QVC HD
@@ -1080,9 +1080,9 @@ piconlink zdfinfo 1_0_1F_7D2_203_2114_EEEE0000_0_0_0
 # zdf_neo HD
 piconlink zdfneohd 1_0_1F_7D3_203_2114_EEEE0000_0_0_0
 # MDR S-Analt HD
-piconlink mdr 1_0_1F_362_6F00_2114_EEEE0000_0_0_0
+piconlink mdrhd 1_0_1F_362_6F00_2114_EEEE0000_0_0_0
 # NDR FS NDS HD
-piconlink ndr 1_0_1F_381_6F00_2114_EEEE0000_0_0_0
+piconlink ndrhd 1_0_1F_381_6F00_2114_EEEE0000_0_0_0
 # PHOENIX HD
 piconlink phoenixhd 1_0_1F_303_6F00_2114_EEEE0000_0_0_0
 # SWR RP HD
