@@ -675,7 +675,7 @@ piconlink skycinemahitsde 1_0_1_29_3_85_FFFF0000_0_0_0
 # Sky Cinema Action
 piconlink skycinemaactionde 1_0_1_9_2_85_FFFF0000_0_0_0
 # Sky Cinema Family
-# piconlink 1_0_1_197_4_85_FFFF0000_0_0_0
+piconlink skycinemafamilyde 1_0_1_197_4_85_FFFF0000_0_0_0
 # Sky Cinema Comedy
 piconlink skycinemacomedyde 1_0_1_8_2_85_FFFF0000_0_0_0
 # Sky Cinema Emotion
@@ -685,17 +685,17 @@ piconlink skycinemanostalgiede 1_0_1_204_2_85_FFFF0000_0_0_0
 # Disney Cinemagic
 piconlink disneycinemagic 1_0_1_19_3_85_FFFF0000_0_0_0
 # Sky Sport Bundesliga 1 HD
-piconlink skysportbundesliga1hdde 1_0_19_69_C_85_FFFF0000_0_0_0
+piconlink skysportbundesligahdde 1_0_19_69_C_85_FFFF0000_0_0_0
 # Sky Sport Bundesliga 2 HD
-piconlink skysportbundesliga2hdde 1_0_19_10B_6_85_FFFF0000_0_0_0
+piconlink skysportbundesligahdde 1_0_19_10B_6_85_FFFF0000_0_0_0
 # Sky Sport Bundesliga 3 HD
 piconlink skysportbundesligahdde 1_0_19_115_D_85_FFFF0000_0_0_0
 # Sky Sport Bundesliga 4 HD
 piconlink skysportbundesligahdde 1_0_19_11F_C_85_FFFF0000_0_0_0
 # Sky Sport 1 HD
-piconlink skysport1hdde 1_0_19_81_6_85_FFFF0000_0_0_0
+piconlink skysporthdde 1_0_19_81_6_85_FFFF0000_0_0_0
 # Sky Sport 2 HD
-piconlink skysport2hdde 1_0_19_72_D_85_FFFF0000_0_0_0
+piconlink skysporthdde 1_0_19_72_D_85_FFFF0000_0_0_0
 # Sky Sport 3 HD
 piconlink skysporthdde 1_0_19_10C_6_85_FFFF0000_0_0_0
 # Sky Sport 4 HD
@@ -723,9 +723,9 @@ piconlink skysportbundesligade 1_0_D3_14C_1_85_FFFF0000_0_0_0
 # Sky Sport Bundesliga 10
 piconlink skysportbundesligade 1_0_D3_FC_2_85_FFFF0000_0_0_0
 # Sky Sport 1
-piconlink skysport1de 1_0_1_DD_3_85_FFFF0000_0_0_0
+piconlink skysportde 1_0_1_DD_3_85_FFFF0000_0_0_0
 # Sky Sport 2
-piconlink skysport2de 1_0_1_DE_3_85_FFFF0000_0_0_0
+piconlink skysportde 1_0_1_DE_3_85_FFFF0000_0_0_0
 # Sky Sport 3
 piconlink skysportde 1_0_D3_107_2_85_FFFF0000_0_0_0
 # Sky Sport 4
