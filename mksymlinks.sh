@@ -789,7 +789,7 @@ piconlink radio.wdr1live 1_0_2_6F3B_44D_A401_FFFF0000_0_0_0
 # 1LIVE diGGi
 piconlink radio.wdr1livediggi 1_0_2_6F41_44D_A401_FFFF0000_0_0_0
 # COSMO
-# piconlink radio.cosmo 1_0_2_6F40_44D_A401_FFFF0000_0_0_0
+piconlink radio.cosmo 1_0_2_6F40_44D_A401_FFFF0000_0_0_0
 # KIRAKA
 piconlink radio.wdrkiraka 1_0_2_6F42_44D_A401_FFFF0000_0_0_0
 # WDR 2
@@ -805,7 +805,7 @@ piconlink radio.wdrevent 1_0_2_6F43_44D_A401_FFFF0000_0_0_0
 # DASDING
 piconlink radio.swrdasding 1_0_2_6F37_431_A401_FFFF0000_0_0_0
 # SWR Aktuell
-# piconlink radio.swraktuell 1_0_2_6F38_431_A401_FFFF0000_0_0_0
+piconlink radio.swraktuell 1_0_2_6F38_431_A401_FFFF0000_0_0_0
 # SWR1 BW
 piconlink radio.swr1badenwuerttemberg 1_0_2_6F31_431_A401_FFFF0000_0_0_0
 # SWR1 RP
@@ -847,21 +847,21 @@ piconlink radio.brklassik 1_0_2_6EF3_44D_A401_FFFF0000_0_0_0
 # PULS
 piconlink radio.brpuls 1_0_2_6EF6_44D_A401_FFFF0000_0_0_0
 # MDR AKTUELL
-# piconlink radio.mdraktuell 1_0_2_6F12_431_A401_FFFF0000_0_0_0
+piconlink radio.mdraktuell 1_0_2_6F12_431_A401_FFFF0000_0_0_0
 # MDR JUMP
 piconlink radio.mdrjump 1_0_2_6F10_431_A401_FFFF0000_0_0_0
 # MDR KLASSIK
 piconlink radio.mdrklassik 1_0_2_6F13_431_A401_FFFF0000_0_0_0
 # MDR KULTUR
-# piconlink radio.mdrkultur 1_0_2_6F0F_431_A401_FFFF0000_0_0_0
+piconlink radio.mdrkultur 1_0_2_6F0F_431_A401_FFFF0000_0_0_0
 # MDR S-ANHALT
-piconlink radio.mdrradiosachsenanhalt 1_0_2_6F0D_431_A401_FFFF0000_0_0_0
+piconlink radio.mdrsachsenanhalt 1_0_2_6F0D_431_A401_FFFF0000_0_0_0
 # MDR SPUTNIK
 piconlink radio.mdrsputnik 1_0_2_6F11_431_A401_FFFF0000_0_0_0
 # MDR THUERINGEN
 piconlink radio.mdrthueringen 1_0_2_6F0E_431_A401_FFFF0000_0_0_0
 # MDR SACHSEN
-piconlink radio.mdr1radiosachsen 1_0_2_6F0C_431_A401_FFFF0000_0_0_0
+piconlink radio.mdrsachsen 1_0_2_6F0C_431_A401_FFFF0000_0_0_0
 # NDR 1 Nieders.
 piconlink radio.ndr1niedersachsen 1_0_2_6F1C_431_A401_FFFF0000_0_0_0
 # NDR 1 Radio MV
@@ -885,7 +885,7 @@ piconlink radio.bremeneins 1_0_2_6F20_431_A401_FFFF0000_0_0_0
 # Bremen Vier
 piconlink radio.bremenvier 1_0_2_6F22_431_A401_FFFF0000_0_0_0
 # Bremen Zwei
-# piconlink radio.bremenzwei 1_0_2_6F21_431_A401_FFFF0000_0_0_0
+piconlink radio.bremenzwei 1_0_2_6F21_431_A401_FFFF0000_0_0_0
 # Antenne Brandenburg
 piconlink radio.rbbantennebrandenburg 1_0_2_6F26_431_A401_FFFF0000_0_0_0
 # Fritz
@@ -905,19 +905,19 @@ piconlink radio.sr2kulturradio 1_0_2_6F2E_44D_A401_FFFF0000_0_0_0
 # SR 3 Saarlandwelle
 piconlink radio.sr3saarlandwelle 1_0_2_6F2F_44D_A401_FFFF0000_0_0_0
 # Dlf Kultur
-piconlink radio.deutschlandradiokultur 1_0_2_6D6C_437_66_FFFF0000_0_0_0
+piconlink radio.deutschlandfunkkultur 1_0_2_6D6C_437_66_FFFF0000_0_0_0
 # Dlf
 piconlink radio.deutschlandfunk 1_0_2_6D6D_437_66_FFFF0000_0_0_0
 # Dlf Nova
-# piconlink radio.deutschlandfunknova 1_0_2_6D71_437_66_FFFF0000_0_0_0
+piconlink radio.deutschlandfunknova 1_0_2_6D71_437_66_FFFF0000_0_0_0
 # 80s80s
-# piconlink radio.80s80s 1_0_2_C7A0_1FF_270F_FFFF0000_0_0_0
+piconlink radio.80s80s 1_0_2_C7A0_1FF_270F_FFFF0000_0_0_0
 # ERF Plus
 piconlink radio.evangeliumsrundfunk 1_0_2_46C0_B5_270F_FFFF0000_0_0_0
 # JAM FM
 piconlink radio.jamfm 1_0_2_5E31_F1_270F_FFFF0000_0_0_0
 # Klassik Radio
-# piconlink radio.klassikradio 1_0_2_660A_1E1_270F_FFFF0000_0_0_0
+piconlink radio.klassikradio 1_0_2_660A_1E1_270F_FFFF0000_0_0_0
 # radio B2
 piconlink radio.radiob2 1_0_2_5E39_F1_270F_FFFF0000_0_0_0
 # RADIO BOB!
@@ -1033,17 +1033,17 @@ piconlink radio.nlradio1 1_0_2_AC64_1FF_270F_FFFF0000_0_0_0
 # NL-Radio 5
 piconlink radio.nlradio5 1_0_2_AC65_1FF_270F_FFFF0000_0_0_0
 # Kral FM Avrupa
-# piconlink radio. 1_0_2_6603_1CD_270F_FFFF0000_0_0_0
+piconlink radio.kralfmavrupa 1_0_2_6603_1CD_270F_FFFF0000_0_0_0
 # Radyo Metropol
 piconlink radio.radyometropol 1_0_2_5A4A_E7_270F_FFFF0000_0_0_0
 # Slow Tuerk
-# piconlink radio. 1_0_2_6604_1D7_270F_FFFF0000_0_0_0
+piconlink radio.slowtuerk 1_0_2_6604_1D7_270F_FFFF0000_0_0_0
 # Rai Radio 1
 piconlink radio.rairadio1 1_0_2_5669_DD_270F_FFFF0000_0_0_0
 # Radio ZET
 piconlink radio.radiozet 1_0_2_5E34_1D7_270F_FFFF0000_0_0_0
 # Radio Exterior
-# piconlink radio. 1_0_2_AC7A_1E1_270F_FFFF0000_0_0_0
+piconlink radio.radioexterior 1_0_2_AC7A_1E1_270F_FFFF0000_0_0_0
 # HRT HR1
 # piconlink radio. 1_0_2_6601_1CD_270F_FFFF0000_0_0_0
 # Pink Radio
