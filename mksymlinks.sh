@@ -61,7 +61,7 @@ piconlink 1-2-3.tvhd 1_0_19_DB26_231_270F_FFFF0000_0_0_0
 # QVC Plus HD
 piconlink qvcplushd 1_0_19_B418_1C3_270F_FFFF0000_0_0_0
 # QVC Beauty & Style HD
-piconlink qvcbeauty 1_0_19_DF0E_23B_270F_FFFF0000_0_0_0
+piconlink qvcbeautyandstyle 1_0_19_DF0E_23B_270F_FFFF0000_0_0_0
 # DMAX HD
 piconlink dmaxhd 1_0_19_7980_1C3_270F_FFFF0000_0_0_0
 # TLC HD
@@ -259,7 +259,7 @@ piconlink qvcplus 1_0_1_42DD_AB_270F_FFFF0000_0_0_0
 # HSE24 EXTRA
 piconlink hse24extra 1_0_1_75A0_AB_270F_FFFF0000_0_0_0
 # QVC Beauty
-piconlink qvcbeauty 1_0_1_AC47_AB_270F_FFFF0000_0_0_0
+piconlink qvcbeautyandstyle 1_0_1_AC47_AB_270F_FFFF0000_0_0_0
 # HSE24 TREND
 piconlink hse24trend 1_0_1_42DC_AB_270F_FFFF0000_0_0_0
 # Astro TV
