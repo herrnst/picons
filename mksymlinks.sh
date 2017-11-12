@@ -481,7 +481,7 @@ piconlink atvavrupa 1_0_1_5E3A_F1_270F_FFFF0000_0_0_0
 # CNN Tuerk
 piconlink cnn 1_0_1_565F_DD_270F_FFFF0000_0_0_0
 # EURO D
-# piconlink eurod 1_0_1_5A41_E7_270F_FFFF0000_0_0_0
+piconlink eurod 1_0_1_5A41_E7_270F_FFFF0000_0_0_0
 # EURO STAR
 piconlink eurostar 1_0_1_5A40_E7_270F_FFFF0000_0_0_0
 # Kanal 7
@@ -505,9 +505,9 @@ piconlink ntvmir 1_0_1_BBE5_1E1_270F_FFFF0000_0_0_0
 # RTR Planeta
 piconlink rtrplaneta 1_0_1_5A44_E7_270F_FFFF0000_0_0_0
 # RTVD
-# piconlink rtvd 1_0_1_5A45_E7_270F_FFFF0000_0_0_0
+piconlink rtvd 1_0_1_5A45_E7_270F_FFFF0000_0_0_0
 # Telebom / Tele Dom
-# piconlink telebom 1_0_1_5656_DD_270F_FFFF0000_0_0_0
+piconlink telebomteledom 1_0_1_5656_DD_270F_FFFF0000_0_0_0
 # Mediaset
 piconlink mediasetitalia 1_0_1_6605_1CD_270F_FFFF0000_0_0_0
 # Rai Uno
@@ -545,7 +545,7 @@ piconlink balkanikamusictelevision 1_0_1_65FA_1CD_270F_FFFF0000_0_0_0
 # DM SAT
 piconlink dmsat 1_0_1_6230_1D7_270F_FFFF0000_0_0_0
 # CMC
-# piconlink cmc 1_0_1_AC55_F1_270F_FFFF0000_0_0_0
+piconlink cmc 1_0_1_AC55_F1_270F_FFFF0000_0_0_0
 # HRT TV 1
 piconlink hrttv1 1_0_1_65FB_1CD_270F_FFFF0000_0_0_0
 # Pink Extra
@@ -563,7 +563,7 @@ piconlink rtssat 1_0_1_622C_1D7_270F_FFFF0000_0_0_0
 # BN TV
 piconlink bntv 1_0_1_B41F_1E1_270F_FFFF0000_0_0_0
 # TV Crne Gore Sat
-# piconlink tvcrnegoresat 1_0_1_622D_1D7_270F_FFFF0000_0_0_0
+piconlink rtcg 1_0_1_622D_1D7_270F_FFFF0000_0_0_0
 # Hayat TV
 piconlink hayat 1_0_1_65FE_1CD_270F_FFFF0000_0_0_0
 # Klan Kosova
