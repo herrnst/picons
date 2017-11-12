@@ -103,7 +103,7 @@ piconlink kikahd 1_0_19_2B91_6F_270F_FFFF0000_0_0_0
 # Nickelodeon HD
 piconlink nickhd 1_0_19_AC4A_1B9_270F_FFFF0000_0_0_0
 # ZDF_neo HD
-piconlink zdfneohd 1_0_19_A08F_191_270F_FFFF0000_0_0_0
+piconlink zdfneo 1_0_19_A08F_191_270F_FFFF0000_0_0_0
 # Nitro HD
 piconlink nitrohd 1_0_19_8151_14B_270F_FFFF0000_0_0_0
 # Sat.1 Gold HD
@@ -1078,7 +1078,7 @@ piconlink zdfhd 1_0_1F_7D1_203_2114_EEEE0000_0_0_0
 # ZDFinfo HD
 piconlink zdfinfo 1_0_1F_7D2_203_2114_EEEE0000_0_0_0
 # zdf_neo HD
-piconlink zdfneohd 1_0_1F_7D3_203_2114_EEEE0000_0_0_0
+piconlink zdfneo 1_0_1F_7D3_203_2114_EEEE0000_0_0_0
 # MDR S-Analt HD
 piconlink mdrhd 1_0_1F_362_6F00_2114_EEEE0000_0_0_0
 # NDR FS NDS HD
