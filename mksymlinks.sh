@@ -457,9 +457,9 @@ piconlink bbcworldnews 1_0_1_2B61_10F_270F_FFFF0000_0_0_0
 # Bloomberg
 piconlink bloomberg 1_0_1_5E2E_F1_270F_FFFF0000_0_0_0
 # CGTN
-# piconlink cgtn 1_0_1_4E86_1E1_270F_FFFF0000_0_0_0
+piconlink cgtndocumentary 1_0_1_4E86_1E1_270F_FFFF0000_0_0_0
 # CCTV News
-piconlink cctvnews 1_0_1_4E97_10F_270F_FFFF0000_0_0_0
+piconlink cgtn 1_0_1_4E97_10F_270F_FFFF0000_0_0_0
 # CNBC
 piconlink cnbc 1_0_1_3717_8D_270F_FFFF0000_0_0_0
 # CNN
