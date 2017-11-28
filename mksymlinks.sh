@@ -58,6 +58,8 @@ piconlink hse24hd 1_0_19_AC46_191_270F_FFFF0000_0_0_0
 piconlink sonnenklartvhd 1_0_19_DB25_231_270F_FFFF0000_0_0_0
 # 1-2-3.TV HD
 piconlink 1-2-3.tvhd 1_0_19_DB26_231_270F_FFFF0000_0_0_0
+# Juwelo TV HD
+piconlink juwelotv 1_0_19_B02F_1C3_270F_FFFF0000_0_0_0
 # QVC Plus HD
 piconlink qvcplushd 1_0_19_B418_1C3_270F_FFFF0000_0_0_0
 # QVC Beauty & Style HD
@@ -78,6 +80,8 @@ piconlink discoveryhd 1_0_19_E2F5_245_270F_FFFF0000_0_0_0
 piconlink historyhd 1_0_19_E2F6_245_270F_FFFF0000_0_0_0
 # PLANET HD
 piconlink planethdde 1_0_19_AC48_1AF_270F_FFFF0000_0_0_0
+# NatGeo Wild HD
+piconlink natgeowildhd 1_0_19_A475_1A5_270F_FFFF0000_0_0_0
 # Animal Planet HD
 piconlink animalplanethd 1_0_19_B02E_1C3_270F_FFFF0000_0_0_0
 # RTL Living HD
@@ -86,6 +90,8 @@ piconlink rtllivinghd 1_0_19_B415_187_270F_FFFF0000_0_0_0
 piconlink aandehd 1_0_19_DB27_231_270F_FFFF0000_0_0_0
 # Bon Gusto HD
 piconlink bongustohd 1_0_19_6DCF_1B9_270F_FFFF0000_0_0_0
+# E! Entertainment HD
+piconlink eentertainmenthd 1_0_19_E2F7_245_270F_FFFF0000_0_0_0
 # VIVA HD
 piconlink vivahd 1_0_19_B02D_1C3_270F_FFFF0000_0_0_0
 # DELUXE MUSIC HD
@@ -118,6 +124,8 @@ piconlink sixxhd 1_0_19_7D68_141_270F_FFFF0000_0_0_0
 piconlink prosiebenmaxxhd 1_0_19_7D69_141_270F_FFFF0000_0_0_0
 # ONE HD
 piconlink onehd 1_0_19_A08E_1A5_270F_FFFF0000_0_0_0
+# Anixe HD
+piconlink anixehd 1_0_19_E2F8_245_270F_FFFF0000_0_0_0
 # TNT Film HD
 piconlink tntfilmhd 1_0_19_5274_19B_270F_FFFF0000_0_0_0
 # TNT Serie HD
@@ -156,6 +164,10 @@ piconlink skysportnewshdde 1_0_19_6C_C_85_FFFF0000_0_0_0
 piconlink sport1plushdde 1_0_19_42DA_1A5_270F_FFFF0000_0_0_0
 # Auto Motor und Sport TV HD
 piconlink automotorsporthd 1_0_19_621A_1B9_270F_FFFF0000_0_0_0
+# sportdigital HD
+piconlink sportdigitalhd 1_0_19_9CA8_191_270F_FFFF0000_0_0_0
+# MOTORVISION TV HD
+piconlink motorvisiontvhd 1_0_19_AC4B_1B9_270F_FFFF0000_0_0_0
 # N24 HD
 piconlink n24hd 1_0_19_C79D_79_270F_FFFF0000_0_0_0
 # Phoenix HD
@@ -326,6 +338,8 @@ piconlink viva 1_0_1_5E25_B5_270F_FFFF0000_0_0_0
 piconlink deluxemusic 1_0_1_69DE_AB_270F_FFFF0000_0_0_0
 # Deutsches Musik Fernsehen
 piconlink deutschesmusikfernsehen 1_0_1_5A4D_E7_270F_FFFF0000_0_0_0
+# MTV
+piconlink mtv 1_0_1_46C6_B5_270F_FFFF0000_0_0_0
 # XITE
 piconlink xite 1_0_1_5E38_F1_270F_FFFF0000_0_0_0
 # VH1 Classic
@@ -384,6 +398,8 @@ piconlink rtlplus 1_0_1_4E9C_E7_270F_FFFF0000_0_0_0
 piconlink one 1_0_1_7032_41B_A401_FFFF0000_0_0_0
 # ZEE.ONE
 piconlink zeeone 1_0_1_4E9D_D3_270F_FFFF0000_0_0_0
+# eoTV
+piconlink eotv 1_0_1_4AAD_BF_270F_FFFF0000_0_0_0
 # TNT Film
 piconlink tntfilm 1_0_1_371F_8D_270F_FFFF0000_0_0_0
 # TNT Serie
@@ -468,6 +484,8 @@ piconlink cnn 1_0_1_5E2D_B5_270F_FFFF0000_0_0_0
 piconlink france24 1_0_1_4E8F_10F_270F_FFFF0000_0_0_0
 # Russia Today
 piconlink rt 1_0_1_4E93_10F_270F_FFFF0000_0_0_0
+# NHK
+piconlink nhkworld 1_0_1_B420_1CD_270F_FFFF0000_0_0_0
 # Lust Pur
 piconlink lustpur 1_0_1_3B04_8D_270F_FFFF0000_0_0_0
 # PENTHOUSE
@@ -778,6 +796,12 @@ piconlink bluemovie1 1_0_D3_159_2_85_FFFF0000_0_0_0
 piconlink bluemovie2 1_0_D3_163_2_85_FFFF0000_0_0_0
 # Blue Movie 3
 piconlink bluemovie3 1_0_D3_16D_2_85_FFFF0000_0_0_0
+# Eurospor360 HD 1
+piconlink eurosport360hd 1_0_19_10E_6_85_FFFF0000_0_0_0
+# Eurospor360 HD 2
+piconlink eurosport360hd 1_0_19_118_D_85_FFFF0000_0_0_0
+# Eurospor360 HD 3
+piconlink eurosport360hd 1_0_19_122_C_85_FFFF0000_0_0_0
 # Netflix
 piconlink netflix 1_0_1_CB84_DD_270F_FFFF0000_0_0_0
 
