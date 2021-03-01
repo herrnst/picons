@@ -184,26 +184,22 @@ piconlink ndr 1_0_1_6E40_431_A401_FFFF0000_0_0_0
 piconlink rbb 1_0_1_6E2D_431_A401_FFFF0000_0_0_0
 # rbb Berlin
 piconlink rbb 1_0_1_6E2E_431_A401_FFFF0000_0_0_0
+# SR Fernsehen
+piconlink srfernsehen 1_0_1_BBE7_1E1_270F_FFFF0000_0_0_0
+# Radio Bremen TV
+piconlink radiobrementv 1_0_1_BBE8_1E1_270F_FFFF0000_0_0_0
 # SWR Fernsehen RP
 piconlink swr 1_0_1_6E47_431_A401_FFFF0000_0_0_0
 # SWR Fernsehen BW
 piconlink swr 1_0_1_6DD1_44D_A401_FFFF0000_0_0_0
 # Lokalprogramm
-# piconlink lokalprogramm 1_0_1_5E2B_15F_270F_FFFF0000_0_0_0
-# nrwision
-piconlink nrwision 1_0_1_4E91_15F_270F_FFFF0000_0_0_0
-# NRW.TV
-piconlink nrwtv 1_0_1_5E2F_15F_270F_FFFF0000_0_0_0
-# Schnupperkanal
-piconlink unitymediakabelbwschnupperkanal 1_0_1_75A1_1FF_270F_FFFF0000_0_0_0
-# Videothek
-piconlink unitymediakabelbwvideothek 1_0_1_3351_FB_270F_FFFF0000_0_0_0
-# Infokanal
-piconlink unitymediakabelbwinfokanal 1_0_1_620D_15F_270F_FFFF0000_0_0_0
+piconlink vodafone 1_0_1_5E2B_15F_270F_FFFF0000_0_0_0
+# GigaTV
+piconlink vodafone 1_0_1_75A1_1FF_270F_FFFF0000_0_0_0
 # QVC
 piconlink qvc 1_0_1_5E27_AB_270F_FFFF0000_0_0_0
-# HSE24
-piconlink hse24 1_0_1_5E28_AB_270F_FFFF0000_0_0_0
+# HSE
+piconlink hse 1_0_1_5E28_AB_270F_FFFF0000_0_0_0
 # sonnenklar.TV
 piconlink sonnenklartv 1_0_1_5E30_B5_270F_FFFF0000_0_0_0
 # 1-2-3.tv
@@ -212,16 +208,16 @@ piconlink 1-2-3.tv 1_0_1_5E2A_B5_270F_FFFF0000_0_0_0
 piconlink juwelotv 1_0_1_4E8C_AB_270F_FFFF0000_0_0_0
 # Channel21
 piconlink channel21 1_0_1_5E29_B5_270F_FFFF0000_0_0_0
-# SparhandyTV
-piconlink sparhandytv 1_0_1_42E1_AB_270F_FFFF0000_0_0_0
-# QVC Plus
-piconlink qvcplus 1_0_1_42DD_AB_270F_FFFF0000_0_0_0
-# HSE24 EXTRA
-piconlink hse24extra 1_0_1_75A0_AB_270F_FFFF0000_0_0_0
-# QVC Beauty
-piconlink qvcbeautyandstyle 1_0_1_AC47_AB_270F_FFFF0000_0_0_0
-# HSE24 TREND
-piconlink hse24trend 1_0_1_42DC_AB_270F_FFFF0000_0_0_0
+# Handystar
+piconlink handystar 1_0_1_42E1_AB_270F_FFFF0000_0_0_0
+# QVC ZWEI
+piconlink qvczwei 1_0_1_42DD_AB_270F_FFFF0000_0_0_0
+# HSE EXTRA
+piconlink hseextra 1_0_1_75A0_AB_270F_FFFF0000_0_0_0
+# QVC Style
+piconlink qvcstyle 1_0_1_AC47_AB_270F_FFFF0000_0_0_0
+# HSE TREND
+piconlink hsetrend 1_0_1_42DC_AB_270F_FFFF0000_0_0_0
 # Astro TV
 piconlink astrotv 1_0_1_71B4_D3_270F_FFFF0000_0_0_0
 # DMAX
@@ -229,7 +225,7 @@ piconlink dmax 1_0_1_5E2C_B5_270F_FFFF0000_0_0_0
 # ZDFinfo
 piconlink zdfinfo 1_0_1_6D6B_437_66_FFFF0000_0_0_0
 # TLC
-piconlink tlcgermany 1_0_1_69DF_F1_270F_FFFF0000_0_0_0
+piconlink tlc 1_0_1_69DF_F1_270F_FFFF0000_0_0_0
 # kabel eins Doku
 piconlink kabeleinsdoku 1_0_1_46C5_B5_270F_FFFF0000_0_0_0
 # N24 Doku
@@ -240,97 +236,39 @@ piconlink ardalpha 1_0_1_6F47_41B_A401_FFFF0000_0_0_0
 piconlink bibeltv 1_0_1_3B06_97_270F_FFFF0000_0_0_0
 # DIE NEUE ZEIT TV
 piconlink dieneuezeit 1_0_1_69DD_10F_270F_FFFF0000_0_0_0
-# H2D Handshake 2 Deutschland
-piconlink handshake2deutschland 1_0_1_5A4E_E7_270F_FFFF0000_0_0_0
+# Home & Garden TV
+piconlink homeandgardentv 1_0_1_5E3D_F1_270F_FFFF0000_0_0_0
 # k-tv
 piconlink k-tv 1_0_1_69EB_97_270F_FFFF0000_0_0_0
 # SonLife
 piconlink sonlifetv 1_0_1_4E85_1E1_270F_FFFF0000_0_0_0
-# God.TV
-piconlink godtv 1_0_1_5E3B_F1_270F_FFFF0000_0_0_0
 # Health TV
 piconlink healthtv 1_0_1_5E3C_F1_270F_FFFF0000_0_0_0
-# Welt der Wunder
-piconlink weltderwunder 1_0_1_566E_DD_270F_FFFF0000_0_0_0
-# National Geographic
-piconlink nationalgeographic 1_0_1_3F5_4_85_FFFF0000_0_0_0
-# Spiegel TV Wissen
-piconlink spiegeltvwissen 1_0_1_3718_8D_270F_FFFF0000_0_0_0
-# Discovery Channel
-piconlink discovery 1_0_1_566F_DD_270F_FFFF0000_0_0_0
-# HISTORY
-piconlink history 1_0_1_332E_83_270F_FFFF0000_0_0_0
-# PLANET
-piconlink planetde 1_0_1_3330_F1_270F_FFFF0000_0_0_0
-# NatGeo Wild
-piconlink natgeowild 1_0_1_5275_D3_270F_FFFF0000_0_0_0
-# Animal Planet
-piconlink animalplanet 1_0_1_4AAC_BF_270F_FFFF0000_0_0_0
-# RTL Living
-piconlink rtlliving 1_0_1_2B65_BF_270F_FFFF0000_0_0_0
-# A&E
-piconlink aande 1_0_1_6210_83_270F_FFFF0000_0_0_0
-# BonGusto
-piconlink bongusto 1_0_1_3B00_97_270F_FFFF0000_0_0_0
-# E! Entertainment
-piconlink eentertainment 1_0_1_3B03_97_270F_FFFF0000_0_0_0
-# Deutsches Wetter Fernsehen
-piconlink deutscheswetterfernsehen 1_0_1_4AAA_10F_270F_FFFF0000_0_0_0
-# Travel Channel Deutschland
-piconlink travelchannel 1_0_1_372C_8D_270F_FFFF0000_0_0_0
-# Fashion TV
-piconlink fashiontv 1_0_1_3B02_97_270F_FFFF0000_0_0_0
-# VIVA/COMEDY CENTRAL
-piconlink viva 1_0_1_5E25_B5_270F_FFFF0000_0_0_0
+# Hope TV
+piconlink hopetv 1_0_1_5276_D3_270F_FFFF0000_0_0_0
+# COMEDY CENTRAL
+piconlink comedycentral 1_0_1_5E25_B5_270F_FFFF0000_0_0_0
 # DELUXE MUSIC
 piconlink deluxemusic 1_0_1_69DE_AB_270F_FFFF0000_0_0_0
 # Deutsches Musik Fernsehen
 piconlink deutschesmusikfernsehen 1_0_1_5A4D_E7_270F_FFFF0000_0_0_0
 # MTV
 piconlink mtv 1_0_1_46C6_B5_270F_FFFF0000_0_0_0
-# XITE
-piconlink xite 1_0_1_5E38_F1_270F_FFFF0000_0_0_0
-# VH1 Classic
-piconlink vh1classic 1_0_1_3B08_97_270F_FFFF0000_0_0_0
-# MTV Brand New
-piconlink mtvbrandnew 1_0_1_6212_F1_270F_FFFF0000_0_0_0
-# RCK TV
-piconlink rocktv 1_0_1_AC49_10F_270F_FFFF0000_0_0_0
-# CLASSICA
-piconlink unitelclassica 1_0_1_620F_F1_270F_FFFF0000_0_0_0
-# Gute Laune TV
-piconlink gutelaunetv 1_0_1_3337_83_270F_FFFF0000_0_0_0
 # Super RTL
 piconlink superrtl 1_0_1_2F4B_A1_270F_FFFF0000_0_0_0
 # KiKA
 piconlink kika 1_0_1_6D68_437_66_FFFF0000_0_0_0
-# Nickelodeon/Nicknight
-piconlink nick 1_0_1_2B60_BF_270F_FFFF0000_0_0_0
+# nick/MTV+
+piconlink nick_mtvplus 1_0_1_2B60_BF_270F_FFFF0000_0_0_0
 # TOGGO plus
 piconlink toggoplus 1_0_1_6211_83_270F_FFFF0000_0_0_0
 # RiC
 piconlink ric 1_0_1_42DF_AB_270F_FFFF0000_0_0_0
-# Disney Junior
-piconlink disneyjunior 1_0_1_402_1_85_FFFF0000_0_0_0
-# Disney XD
-piconlink disneyxd 1_0_1_404_1_85_FFFF0000_0_0_0
-# Nicktoons
-piconlink nicktoons 1_0_1_526F_D3_270F_FFFF0000_0_0_0
-# Cartoon Network
-piconlink cartoonnetwork 1_0_1_3B07_97_270F_FFFF0000_0_0_0
-# Boomerang
-piconlink boomerang 1_0_1_3719_8D_270F_FFFF0000_0_0_0
-# Nick Jr.
-piconlink nickjr 1_0_1_5272_D3_270F_FFFF0000_0_0_0
-# Fix&Foxi
-piconlink fixfoxitv 1_0_1_526D_D3_270F_FFFF0000_0_0_0
-# BabyTV
-piconlink babytv 1_0_1_5271_D3_270F_FFFF0000_0_0_0
 # zdf_neo
 piconlink zdfneo 1_0_1_6D6E_437_66_FFFF0000_0_0_0
 # Nitro
 piconlink nitro 1_0_1_75A2_B5_270F_FFFF0000_0_0_0
-# Sat.1 Gold
+# SAT.1 GOLD
 piconlink sat1gold 1_0_1_71B6_B5_270F_FFFF0000_0_0_0
 # Tele 5
 piconlink tele5 1_0_1_2F4F_BF_270F_FFFF0000_0_0_0
@@ -344,72 +282,18 @@ piconlink prosiebenmaxx 1_0_1_2F51_A1_270F_FFFF0000_0_0_0
 piconlink rtlplus 1_0_1_4E9C_E7_270F_FFFF0000_0_0_0
 # ONE
 piconlink one 1_0_1_7032_41B_A401_FFFF0000_0_0_0
-# ZEE.ONE
-piconlink zeeone 1_0_1_4E9D_D3_270F_FFFF0000_0_0_0
-# eoTV
-piconlink eotv 1_0_1_4AAD_BF_270F_FFFF0000_0_0_0
-# TNT Film
-piconlink tntfilm 1_0_1_371F_8D_270F_FFFF0000_0_0_0
-# TNT Serie
-piconlink tntserie 1_0_1_41A_1_85_FFFF0000_0_0_0
-# 13th Street
-piconlink 13thstreet 1_0_1_412_4_85_FFFF0000_0_0_0
-# Syfy
-piconlink syfy 1_0_1_40C_1_85_FFFF0000_0_0_0
-# Fox Serie
-piconlink fox 1_0_1_3F8_1_85_FFFF0000_0_0_0
-# kabel eins classics
-piconlink kabeleinsclassics 1_0_1_3338_83_270F_FFFF0000_0_0_0
-# RTL Crime
-piconlink rtlcrime 1_0_1_403_4_85_FFFF0000_0_0_0
-# Kinowelt TV
-piconlink kinowelttv 1_0_1_3333_83_270F_FFFF0000_0_0_0
-# AXN Action
-piconlink axn 1_0_1_3335_83_270F_FFFF0000_0_0_0
-# ProSieben FUN
-piconlink prosiebenfun 1_0_1_75A3_AB_270F_FFFF0000_0_0_0
-# Universal Channel
-piconlink universalchannel 1_0_1_660B_1E1_270F_FFFF0000_0_0_0
-# Silverline Movie CHannel
-piconlink silverline 1_0_1_3334_F1_270F_FFFF0000_0_0_0
-# Sat.1 Emotions
-piconlink sat1emotions 1_0_1_3339_83_270F_FFFF0000_0_0_0
-# Romance TV
-piconlink romancetv 1_0_1_372B_8D_270F_FFFF0000_0_0_0
-# TNT Comedy
-piconlink tntcomedy 1_0_1_6606_1CD_270F_FFFF0000_0_0_0
-# SONY CHANNEL
-piconlink sonytv 1_0_1_4E9B_1D7_270F_FFFF0000_0_0_0
-# RTL Passion
-piconlink rtlpassion 1_0_1_405_4_85_FFFF0000_0_0_0
-# Ginx TV
-piconlink ginxtv 1_0_1_6DCE_1FF_270F_FFFF0000_0_0_0
+# VOXup
+piconlink voxup 1_0_1_566E_DD_270F_FFFF0000_0_0_0
 # SPORT1
 piconlink sport1de 1_0_1_2F4C_BF_270F_FFFF0000_0_0_0
 # EUROSPORT 1
 piconlink eurosport1 1_0_1_2B63_BF_270F_FFFF0000_0_0_0
-# Sky Sport News
-piconlink skysportnews 1_0_1_11_3_85_FFFF0000_0_0_0
-# Sport1+
-piconlink sport1plusde 1_0_1_3B0C_97_270F_FFFF0000_0_0_0
-# EUROSPORT 2
-piconlink eurosport2 1_0_1_371E_8D_270F_FFFF0000_0_0_0
-# auto motor und sport channel
-piconlink automotorsport 1_0_1_4AAB_BF_270F_FFFF0000_0_0_0
-# Sport 1 US
-piconlink sport1usde 1_0_1_371C_8D_270F_FFFF0000_0_0_0
-# sportdigital
-piconlink sportdigital 1_0_1_6217_83_270F_FFFF0000_0_0_0
-# Motorvision
-piconlink motorvisiontv 1_0_1_372D_8D_270F_FFFF0000_0_0_0
-# Extreme Sports
-piconlink extremesports 1_0_1_3AFE_97_270F_FFFF0000_0_0_0
-# N24
-piconlink n24 1_0_1_2F4E_BF_270F_FFFF0000_0_0_0
+# WELT
+piconlink welt 1_0_1_2F4E_BF_270F_FFFF0000_0_0_0
 # PHOENIX
 piconlink phoenix 1_0_1_7035_41B_A401_FFFF0000_0_0_0
 # ntv
-piconlink n-tv 1_0_1_2F4D_A1_270F_FFFF0000_0_0_0
+piconlink ntv 1_0_1_2F4D_A1_270F_FFFF0000_0_0_0
 # euronews (D)
 piconlink euronews 1_0_1_5667_DD_270F_FFFF0000_0_0_0
 # tagesschau24
@@ -420,9 +304,9 @@ piconlink aljazeera 1_0_1_4E90_10F_270F_FFFF0000_0_0_0
 piconlink bbcworldnews 1_0_1_2B61_10F_270F_FFFF0000_0_0_0
 # Bloomberg
 piconlink bloomberg 1_0_1_5E2E_F1_270F_FFFF0000_0_0_0
-# CGTN
+# CGTN Documentary
 piconlink cgtndocumentary 1_0_1_4E86_1E1_270F_FFFF0000_0_0_0
-# CCTV News
+# CGTN
 piconlink cgtn 1_0_1_4E97_10F_270F_FFFF0000_0_0_0
 # CNBC
 piconlink cnbc 1_0_1_3717_8D_270F_FFFF0000_0_0_0
@@ -432,142 +316,22 @@ piconlink cnn 1_0_1_5E2D_B5_270F_FFFF0000_0_0_0
 piconlink france24 1_0_1_4E8F_10F_270F_FFFF0000_0_0_0
 # Russia Today
 piconlink rt 1_0_1_4E93_10F_270F_FFFF0000_0_0_0
-# NHK
+# NHK WORLD-JAPAN
 piconlink nhkworld 1_0_1_B420_1CD_270F_FFFF0000_0_0_0
-# Lust Pur
-piconlink lustpur 1_0_1_3B04_8D_270F_FFFF0000_0_0_0
-# PENTHOUSE
-piconlink penthousetv 1_0_1_3B05_97_270F_FFFF0000_0_0_0
 # TRT Tuerk
 piconlink trtturk 1_0_1_5A48_1E1_270F_FFFF0000_0_0_0
-# Habertuerk
-piconlink haberturktv 1_0_1_71AF_1FF_270F_FFFF0000_0_0_0
-# ATV Avrupa
-piconlink atvavrupa 1_0_1_5E3A_F1_270F_FFFF0000_0_0_0
-# CNN Tuerk
-piconlink cnn 1_0_1_565F_DD_270F_FFFF0000_0_0_0
-# EURO D
-piconlink eurod 1_0_1_5A41_E7_270F_FFFF0000_0_0_0
-# EURO STAR
-piconlink eurostar 1_0_1_5A40_E7_270F_FFFF0000_0_0_0
-# Kanal 7
-piconlink kanal7avrupa 1_0_1_5658_DD_270F_FFFF0000_0_0_0
-# NTV Avrupa
-piconlink ntvavrupa 1_0_1_71B3_D3_270F_FFFF0000_0_0_0
-# Power Tuerk TV
-piconlink powerturktv 1_0_1_6213_B5_270F_FFFF0000_0_0_0
-# SHOW TURK
-piconlink showturk 1_0_1_565D_DD_270F_FFFF0000_0_0_0
-# TV 8
-piconlink tv8sweden 1_0_1_5A3D_E7_270F_FFFF0000_0_0_0
-# KAZAKH TV
-piconlink kazakhtv 1_0_1_71B1_1FF_270F_FFFF0000_0_0_0
-# Channel One Russia
-piconlink channel1rus 1_0_1_5660_DD_270F_FFFF0000_0_0_0
-# Nasch Kinomir
-piconlink nashekino 1_0_1_5A42_E7_270F_FFFF0000_0_0_0
-# NTV Mir
-piconlink ntvmir 1_0_1_BBE5_1E1_270F_FFFF0000_0_0_0
-# RTR Planeta
-piconlink rtrplaneta 1_0_1_5A44_E7_270F_FFFF0000_0_0_0
-# RTVD
-piconlink rtvd 1_0_1_5A45_E7_270F_FFFF0000_0_0_0
-# Telebom / Tele Dom
-piconlink telebomteledom 1_0_1_5656_DD_270F_FFFF0000_0_0_0
-# Mediaset
-piconlink mediasetitalia 1_0_1_6605_1CD_270F_FFFF0000_0_0_0
-# Rai Uno
-piconlink rai1 1_0_1_565A_DD_270F_FFFF0000_0_0_0
-# Rai Due
-piconlink rai2 1_0_1_565B_DD_270F_FFFF0000_0_0_0
-# Rai Tre
-piconlink rai3 1_0_1_565C_DD_270F_FFFF0000_0_0_0
-# Rai News 24
-piconlink rainews24 1_0_1_6229_1D7_270F_FFFF0000_0_0_0
-# Rai Storia
-piconlink raistoria 1_0_1_622B_1D7_270F_FFFF0000_0_0_0
-# itvn
-piconlink itvn 1_0_1_5657_DD_270F_FFFF0000_0_0_0
-# TVN 24
-piconlink tvn24 1_0_1_6215_F1_270F_FFFF0000_0_0_0
-# TV Polonia
-piconlink tvppolonia 1_0_1_5A46_E7_270F_FFFF0000_0_0_0
-# TV Silesia
-piconlink tvsilesia 1_0_1_759D_10F_270F_FFFF0000_0_0_0
-# Record Internacional
-piconlink recordinternacional 1_0_1_71AD_1FF_270F_FFFF0000_0_0_0
-# 24Horas
-piconlink canal24horas 1_0_1_5A3E_E7_270F_FFFF0000_0_0_0
-# RTPi
-piconlink rtpi 1_0_1_5A43_E7_270F_FFFF0000_0_0_0
-# TVE Internacional
-piconlink tveinternacional 1_0_1_5A47_E7_270F_FFFF0000_0_0_0
-# OCKO
-piconlink ockotv 1_0_1_AC58_1FF_270F_FFFF0000_0_0_0
-# Pro TV International
-piconlink protv 1_0_1_AC51_1FF_270F_FFFF0000_0_0_0
-# Balkanika Music Television
-piconlink balkanikamusictelevision 1_0_1_65FA_1CD_270F_FFFF0000_0_0_0
-# DM SAT
-piconlink dmsat 1_0_1_6230_1D7_270F_FFFF0000_0_0_0
 # CMC
 piconlink cmc 1_0_1_AC55_F1_270F_FFFF0000_0_0_0
-# HRT TV 1
-piconlink hrttv1 1_0_1_65FB_1CD_270F_FFFF0000_0_0_0
-# Pink Extra
-piconlink pinkextra 1_0_1_65FD_1CD_270F_FFFF0000_0_0_0
-# Pink Film
-piconlink pinkfilm 1_0_1_621E_1D7_270F_FFFF0000_0_0_0
-# Pink FOLK
-piconlink pinkfolk 1_0_1_621F_1D7_270F_FFFF0000_0_0_0
-# Pink Music
-piconlink pinkmusic 1_0_1_65FF_1CD_270F_FFFF0000_0_0_0
-# Pink Plus
-piconlink pinkplus 1_0_1_65FC_1CD_270F_FFFF0000_0_0_0
-# RTS Sat
-piconlink rtssat 1_0_1_622C_1D7_270F_FFFF0000_0_0_0
-# BN TV
-piconlink bntv 1_0_1_B41F_1E1_270F_FFFF0000_0_0_0
-# TV Crne Gore Sat
-piconlink rtcg 1_0_1_622D_1D7_270F_FFFF0000_0_0_0
-# Hayat TV
-piconlink hayat 1_0_1_65FE_1CD_270F_FFFF0000_0_0_0
-# Klan Kosova
-piconlink klankosova 1_0_1_6227_1E1_270F_FFFF0000_0_0_0
-# Kohavision TV
-piconlink kohavision 1_0_1_622F_1FF_270F_FFFF0000_0_0_0
-# RTK1
-piconlink rtk1 1_0_1_6228_1D7_270F_FFFF0000_0_0_0
-# RTV21
-piconlink rtv21 1_0_1_622E_1E1_270F_FFFF0000_0_0_0
 # Nederland 2
 piconlink npo2 1_0_1_CF77_213_270F_FFFF0000_0_0_0
-# BVN
-piconlink bvn 1_0_1_42E0_AB_270F_FFFF0000_0_0_0
 # TV5MONDE Europe
 piconlink tv5mondeeurope 1_0_1_620E_B5_270F_FFFF0000_0_0_0
-# France 2
-piconlink france2 1_0_1_6DC9_D3_270F_FFFF0000_0_0_0
-# France 3
-piconlink france3 1_0_1_6DCA_D3_270F_FFFF0000_0_0_0
-# France 4
-piconlink france4 1_0_1_622A_1D7_270F_FFFF0000_0_0_0
-# France 5
-piconlink france5 1_0_1_6DCB_D3_270F_FFFF0000_0_0_0
-# France 24 (en francais)
-piconlink france24 1_0_1_6DC8_D3_270F_FFFF0000_0_0_0
-# Al Jazeera
-piconlink aljazeera 1_0_1_7595_10F_270F_FFFF0000_0_0_0
-# Al Arabiya
-piconlink alarabiya 1_0_1_B41E_1FF_270F_FFFF0000_0_0_0
-# MBC Maghreb al Arabia
-piconlink mbc 1_0_1_7596_10F_270F_FFFF0000_0_0_0
 # Antenna TV (Ant 1)
 piconlink ant1europe 1_0_1_759E_10F_270F_FFFF0000_0_0_0
-# ERT World
-piconlink ertworld 1_0_1_759F_1CD_270F_FFFF0000_0_0_0
-# JSTV
-piconlink jstveurope 1_0_1_65F6_1D7_270F_FFFF0000_0_0_0
+
+# Sky
+#######
+
 # Sky One HD
 piconlink skyonede 1_0_19_93_D_85_FFFF0000_0_0_0
 # Sky Atlantic HD
