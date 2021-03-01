@@ -329,6 +329,9 @@ piconlink tv5mondeeurope 1_0_1_620E_B5_270F_FFFF0000_0_0_0
 # Antenna TV (Ant 1)
 piconlink ant1europe 1_0_1_759E_10F_270F_FFFF0000_0_0_0
 
+# Netflix
+piconlink netflix 1_0_1_CB84_DD_270F_FFFF0000_0_0_0
+
 # Sky
 #######
 
@@ -336,182 +339,118 @@ piconlink ant1europe 1_0_1_759E_10F_270F_FFFF0000_0_0_0
 piconlink skyonede 1_0_19_93_D_85_FFFF0000_0_0_0
 # Sky Atlantic HD
 piconlink skyatlanticde 1_0_19_6E_D_85_FFFF0000_0_0_0
-# Fox HD (S)
-piconlink foxhd 1_0_19_7C_6_85_FFFF0000_0_0_0
-# TNT Serie HD (S)
-piconlink tntseriehd 1_0_19_7B_6_85_FFFF0000_0_0_0
-# NatGeo HD (S)
-piconlink nationalgeographichd 1_0_19_70_D_85_FFFF0000_0_0_0
-# Nat Geo Wild HD
-piconlink natgeowildhd 1_0_19_76_C_85_FFFF0000_0_0_0
-# Discovery HD (S)
-piconlink discoveryhd 1_0_19_82_6_85_FFFF0000_0_0_0
 # Sky Krimi HD
 piconlink skykrimide 1_0_19_17_1_85_FFFF0000_0_0_0
-# Fox Serie (S)
-piconlink fox 1_0_1_10_1_85_FFFF0000_0_0_0
-# TNT Serie (S)
-piconlink tntserie 1_0_1_32_1_85_FFFF0000_0_0_0
-# RTL Crime (S)
-piconlink rtlcrime 1_0_1_1B_4_85_FFFF0000_0_0_0
-# Syfy (S)
-piconlink syfy 1_0_1_24_1_85_FFFF0000_0_0_0
-# 13th Street (S)
-piconlink 13thstreet 1_0_1_2A_4_85_FFFF0000_0_0_0
-# RTL Passion (S)
-piconlink rtlpassion 1_0_1_1D_4_85_FFFF0000_0_0_0
-# Beate-Uhse.TV
-piconlink beateuhsetv 1_0_1_15_1_85_FFFF0000_0_0_0
+# Sky Serien & Shows HD
+piconlink skyserienandshows 1_0_19_75_4_85_FFFF0000_0_0_0
+# Fox HD
+piconlink foxhd 1_0_19_7C_6_85_FFFF0000_0_0_0
+# TNT Serie HD
+piconlink tntseriehd 1_0_19_7B_6_85_FFFF0000_0_0_0
+# SYFY HD
+piconlink syfyhd 1_0_19_7E_1_85_FFFF0000_0_0_0
+# 13th Street HD
+piconlink 13thstreethd 1_0_19_7F_1_85_FFFF0000_0_0_0
+# Universal TV HD
+piconlink universaltvhd 1_0_19_65_1_85_FFFF0000_0_0_0
+# NatGeo HD
+piconlink nationalgeographichd 1_0_19_70_D_85_FFFF0000_0_0_0
+# National Geographic Wild HD
+piconlink natgeowildhd 1_0_19_76_6_85_FFFF0000_0_0_0
+# Discovery HD
+piconlink discoveryhd 1_0_19_82_6_85_FFFF0000_0_0_0
+# TNT Comedy
+piconlink tntcomedy 1_0_1_1D_4_85_FFFF0000_0_0_0
+# Beate Uhse HD
+piconlink beateuhsetv 1_0_19_85_1_85_FFFF0000_0_0_0
 # Heimatkanal
-piconlink heimatkanal 1_0_1_16_1_85_FFFF0000_0_0_0
+piconlink heimatkanal 1_0_1_16_3_85_FFFF0000_0_0_0
 # Romance TV
-piconlink romancetv 1_0_1_206_1_85_FFFF0000_0_0_0
+piconlink romancetv 1_0_1_206_3_85_FFFF0000_0_0_0
 # Classica
-piconlink unitelclassica 1_0_1_18_1_85_FFFF0000_0_0_0
-# Disney XD (S)
-piconlink disneyxd 1_0_1_1C_1_85_FFFF0000_0_0_0
-# Disney Junior (S)
-piconlink disneyjunior 1_0_1_1A_1_85_FFFF0000_0_0_0
+piconlink stingrayclassica 1_0_1_18_4_85_FFFF0000_0_0_0
+# Nick.Jr.
+piconlink nickjr 1_0_1_8A_1_85_FFFF0000_0_0_0
+# Boomerang
+piconlink boomerang 1_0_1_1C_4_85_FFFF0000_0_0_0
 # Junior
-piconlink junior 1_0_1_13_1_85_FFFF0000_0_0_0
-# Discovery Channel (S)
-piconlink discovery 1_0_1_E_4_85_FFFF0000_0_0_0
-# National Geographic (S)
-piconlink nationalgeographic 1_0_1_D_4_85_FFFF0000_0_0_0
-# NatGeo Wild
-piconlink natgeowild 1_0_1_C_4_85_FFFF0000_0_0_0
+piconlink junior 1_0_1_13_4_85_FFFF0000_0_0_0
 # Spiegel Geschichte
 piconlink spiegelgeschichte 1_0_1_34_4_85_FFFF0000_0_0_0
-# Sky Cinema HD
-piconlink skycinemahdde 1_0_19_83_6_85_FFFF0000_0_0_0
-# Sky Cinema Hits HD
-piconlink skycinemahitshdde 1_0_19_6B_C_85_FFFF0000_0_0_0
+# Sky Cinema Premieren HD
+piconlink skycinemapremieren 1_0_19_83_6_85_FFFF0000_0_0_0
+# Sky Cinema Best Of HD
+piconlink skycinemabestof 1_0_19_6B_D_85_FFFF0000_0_0_0
+# Sky Cinema Thriller HD
+piconlink skycinemathriller 1_0_19_B_C_85_FFFF0000_0_0_0
 # Sky Cinema Action HD
-piconlink skycinemaactionhdde 1_0_19_74_D_85_FFFF0000_0_0_0
-# Disney Cinemagic HD
-piconlink disneycinemagichd 1_0_19_6F_D_85_FFFF0000_0_0_0
-# Sky Cinema
-piconlink skycinemade 1_0_1_A_2_85_FFFF0000_0_0_0
-# Sky Cinema +1
-piconlink skycinemaplus1de 1_0_1_B_2_85_FFFF0000_0_0_0
-# Sky Cinema +24
-piconlink skycinemaplus24de 1_0_1_2B_2_85_FFFF0000_0_0_0
-# Sky Cinema Hits
-piconlink skycinemahitsde 1_0_1_29_3_85_FFFF0000_0_0_0
-# Sky Cinema Action
-piconlink skycinemaactionde 1_0_1_9_2_85_FFFF0000_0_0_0
+piconlink skycinemaaction 1_0_19_74_D_85_FFFF0000_0_0_0
+# Sky Cinema Special HD
+piconlink skycinemaspecial 1_0_19_6F_D_85_FFFF0000_0_0_0
+# Sky Cinema Premieren +24
+piconlink skycinemapremierenplus24 1_0_1_2B_3_85_FFFF0000_0_0_0
 # Sky Cinema Family
-piconlink skycinemafamilyde 1_0_1_197_4_85_FFFF0000_0_0_0
-# Sky Cinema Comedy
-piconlink skycinemacomedyde 1_0_1_8_2_85_FFFF0000_0_0_0
-# Sky Cinema Emotion
-piconlink skycinemaemotionde 1_0_1_14_2_85_FFFF0000_0_0_0
-# Sky Cinema Nostalgie
-piconlink skycinemanostalgiede 1_0_1_204_2_85_FFFF0000_0_0_0
-# Disney Cinemagic
-piconlink disneycinemagic 1_0_1_19_3_85_FFFF0000_0_0_0
+piconlink skycinemafamily 1_0_1_197_4_85_FFFF0000_0_0_0
+# Sky Cinema Fun
+piconlink skycinemafun 1_0_1_8_1_85_FFFF0000_0_0_0
+# Sky Cinema Classics
+piconlink skycinemaclassics 1_0_1_204_3_85_FFFF0000_0_0_0
+# TNT Film
+piconlink tntfilm 1_0_1_195_4_85_FFFF0000_0_0_0
 # Sky Sport Bundesliga 1 HD
-piconlink skysportbundesligahdde 1_0_19_69_C_85_FFFF0000_0_0_0
+piconlink skysportbundesliga 1_0_19_69_C_85_FFFF0000_0_0_0
 # Sky Sport Bundesliga 2 HD
-piconlink skysportbundesligahdde 1_0_19_10B_6_85_FFFF0000_0_0_0
+piconlink skysportbundesliga 1_0_19_10B_6_85_FFFF0000_0_0_0
 # Sky Sport Bundesliga 3 HD
-piconlink skysportbundesligahdde 1_0_19_115_D_85_FFFF0000_0_0_0
+piconlink skysportbundesliga 1_0_19_115_D_85_FFFF0000_0_0_0
 # Sky Sport Bundesliga 4 HD
-piconlink skysportbundesligahdde 1_0_19_11F_C_85_FFFF0000_0_0_0
+piconlink skysportbundesliga 1_0_19_11F_C_85_FFFF0000_0_0_0
+# Sky Sport Bundesliga 5 HD
+piconlink skysportbundesliga 1_0_19_129_1_85_FFFF0000_0_0_0
+# Sky Sport Bundesliga 6 HD
+piconlink skysportbundesliga 1_0_19_133_4_85_FFFF0000_0_0_0
+
+
+
+
 # Sky Sport 1 HD
-piconlink skysporthdde 1_0_19_81_6_85_FFFF0000_0_0_0
+piconlink skysport 1_0_19_81_6_85_FFFF0000_0_0_0
 # Sky Sport 2 HD
-piconlink skysporthdde 1_0_19_72_D_85_FFFF0000_0_0_0
+piconlink skysport 1_0_19_72_D_85_FFFF0000_0_0_0
 # Sky Sport 3 HD
-piconlink skysporthdde 1_0_19_10C_6_85_FFFF0000_0_0_0
+piconlink skysport 1_0_19_10C_6_85_FFFF0000_0_0_0
 # Sky Sport 4 HD
-piconlink skysporthdde 1_0_19_116_D_85_FFFF0000_0_0_0
+piconlink skysport 1_0_19_116_D_85_FFFF0000_0_0_0
 # Sky Sport 5 HD
-piconlink skysporthdde 1_0_19_120_C_85_FFFF0000_0_0_0
-# Sky Sport Bundesliga 1
-piconlink skysportbundesligade 1_0_1_DF_4_85_FFFF0000_0_0_0
-# Sky Sport Bundesliga 2
-piconlink skysportbundesligade 1_0_D3_106_2_85_FFFF0000_0_0_0
-# Sky Sport Bundesliga 3
-piconlink skysportbundesligade 1_0_D3_110_3_85_FFFF0000_0_0_0
-# Sky Sport Bundesliga 4
-piconlink skysportbundesligade 1_0_D3_11A_3_85_FFFF0000_0_0_0
-# Sky Sport Bundesliga 5
-piconlink skysportbundesligade 1_0_D3_124_3_85_FFFF0000_0_0_0
-# Sky Sport Bundesliga 6
-piconlink skysportbundesligade 1_0_D3_12E_3_85_FFFF0000_0_0_0
-# Sky Sport Bundesliga 7
-piconlink skysportbundesligade 1_0_D3_138_1_85_FFFF0000_0_0_0
-# Sky Sport Bundesliga 8
-piconlink skysportbundesligade 1_0_D3_142_1_85_FFFF0000_0_0_0
-# Sky Sport Bundesliga 9
-piconlink skysportbundesligade 1_0_D3_14C_1_85_FFFF0000_0_0_0
-# Sky Sport Bundesliga 10
-piconlink skysportbundesligade 1_0_D3_FC_2_85_FFFF0000_0_0_0
-# Sky Sport 1
-piconlink skysportde 1_0_1_DD_3_85_FFFF0000_0_0_0
-# Sky Sport 2
-piconlink skysportde 1_0_1_DE_3_85_FFFF0000_0_0_0
-# Sky Sport 3
-piconlink skysportde 1_0_D3_107_2_85_FFFF0000_0_0_0
-# Sky Sport 4
-piconlink skysportde 1_0_D3_111_3_85_FFFF0000_0_0_0
-# Sky Sport 5
-piconlink skysportde 1_0_D3_11B_3_85_FFFF0000_0_0_0
-# Sky Sport 6
-piconlink skysportde 1_0_D3_125_3_85_FFFF0000_0_0_0
-# Sky Sport 7
-piconlink skysportde 1_0_D3_12F_3_85_FFFF0000_0_0_0
-# Sky Sport 8
-piconlink skysportde 1_0_D3_139_1_85_FFFF0000_0_0_0
-# Sky Sport 9
-piconlink skysportde 1_0_D3_143_1_85_FFFF0000_0_0_0
-# Sky Sport 10
-piconlink skysportde 1_0_D3_14D_1_85_FFFF0000_0_0_0
-# Sky Sport 11
-piconlink skysportde 1_0_D3_FD_2_85_FFFF0000_0_0_0
-# Sky Sport Austria
-piconlink skysportaustriade 1_0_1_1E_1_85_FFFF0000_0_0_0
-# Sky Select
-piconlink skyselectde 1_0_1_12_4_85_FFFF0000_0_0_0
-# Sky Select 1
-piconlink skyselectde 1_0_D3_FB_2_85_FFFF0000_0_0_0
-# Sky Select 2
-piconlink skyselectde 1_0_D3_105_2_85_FFFF0000_0_0_0
-# Sky Select 3
-piconlink skyselectde 1_0_D3_10F_3_85_FFFF0000_0_0_0
-# Sky Select 4
-piconlink skyselectde 1_0_D3_119_3_85_FFFF0000_0_0_0
-# Sky Select 5
-piconlink skyselectde 1_0_D3_123_3_85_FFFF0000_0_0_0
-# Sky Select 6
-piconlink skyselectde 1_0_D3_12D_3_85_FFFF0000_0_0_0
-# Sky Select 7
-piconlink skyselectde 1_0_D3_137_1_85_FFFF0000_0_0_0
-# Sky Select 8
-piconlink skyselectde 1_0_D3_141_1_85_FFFF0000_0_0_0
-# Sky Select 9
-piconlink skyselectde 1_0_D3_14B_1_85_FFFF0000_0_0_0
-# Sky Select Event A
-piconlink skyselectde 1_0_D3_FE_2_85_FFFF0000_0_0_0
-# Sky Select Event B
-piconlink skyselectde 1_0_D3_14E_1_85_FFFF0000_0_0_0
-# Blue Movie
-piconlink bluemovie 1_0_1_201_3_85_FFFF0000_0_0_0
-# Blue Movie 1
-piconlink bluemovie1 1_0_D3_159_2_85_FFFF0000_0_0_0
-# Blue Movie 2
-piconlink bluemovie2 1_0_D3_163_2_85_FFFF0000_0_0_0
-# Blue Movie 3
-piconlink bluemovie3 1_0_D3_16D_2_85_FFFF0000_0_0_0
+piconlink skysport 1_0_19_120_C_85_FFFF0000_0_0_0
+# Sky Sport 6 HD
+piconlink skysport 1_0_19_12A_1_85_FFFF0000_0_0_0
+# Sky Sport 7 HD
+piconlink skysport 1_0_19_134_4_85_FFFF0000_0_0_0
+# Sky Sport 8 HD
+piconlink skysport 1_0_19_13E_3_85_FFFF0000_0_0_0
+# Sky Sport 9 HD
+piconlink skysport 1_0_19_148_3_85_FFFF0000_0_0_0
+# Sky Sport 10 HD
+piconlink skysport 1_0_19_152_4_85_FFFF0000_0_0_0
+# Sky Sport Austria 1
+piconlink skysportaustria 1_0_1_1E_4_85_FFFF0000_0_0_0
+# Sky Sport Austria 4 HD
+piconlink skysportaustria 1_0_19_103_1_85_FFFF0000_0_0_0
 # Eurospor360 HD 1
 piconlink eurosport360hd 1_0_19_10E_6_85_FFFF0000_0_0_0
 # Eurospor360 HD 2
 piconlink eurosport360hd 1_0_19_118_D_85_FFFF0000_0_0_0
 # Eurospor360 HD 3
 piconlink eurosport360hd 1_0_19_122_C_85_FFFF0000_0_0_0
-# Netflix
-piconlink netflix 1_0_1_CB84_DD_270F_FFFF0000_0_0_0
+# Blue Movie
+piconlink bluemovie 1_0_1_201_4_85_FFFF0000_0_0_0
+# Blue Movie 1
+piconlink bluemovie1 1_0_D3_159_3_85_FFFF0000_0_0_0
+# Blue Movie 2
+piconlink bluemovie2 1_0_D3_163_3_85_FFFF0000_0_0_0
+# Blue Movie 3
+piconlink bluemovie3 1_0_D3_16D_3_85_FFFF0000_0_0_0
 
 # Radio
 ########
