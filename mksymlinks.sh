@@ -620,10 +620,10 @@ piconlink ant1europe 1_0_1_759E_10F_270F_FFFF0000_0_0_0
 piconlink ertworld 1_0_1_759F_1CD_270F_FFFF0000_0_0_0
 # JSTV
 piconlink jstveurope 1_0_1_65F6_1D7_270F_FFFF0000_0_0_0
-# SKY 1 HD
-piconlink sky1hdde 1_0_19_93_C_85_FFFF0000_0_0_0
+# Sky One HD
+piconlink skyonede 1_0_19_93_D_85_FFFF0000_0_0_0
 # Sky Atlantic HD
-piconlink skyatlantichdde 1_0_19_6E_D_85_FFFF0000_0_0_0
+piconlink skyatlanticde 1_0_19_6E_D_85_FFFF0000_0_0_0
 # Fox HD (S)
 piconlink foxhd 1_0_19_7C_6_85_FFFF0000_0_0_0
 # TNT Serie HD (S)
@@ -634,12 +634,8 @@ piconlink nationalgeographichd 1_0_19_70_D_85_FFFF0000_0_0_0
 piconlink natgeowildhd 1_0_19_76_C_85_FFFF0000_0_0_0
 # Discovery HD (S)
 piconlink discoveryhd 1_0_19_82_6_85_FFFF0000_0_0_0
-# Sky 1
-piconlink sky1de 1_0_1_198_4_85_FFFF0000_0_0_0
-# Sky Krimi
-piconlink skykrimide 1_0_1_17_4_85_FFFF0000_0_0_0
-# Sky Atlantic
-piconlink skyatlanticde 1_0_1_22_1_85_FFFF0000_0_0_0
+# Sky Krimi HD
+piconlink skykrimide 1_0_19_17_1_85_FFFF0000_0_0_0
 # Fox Serie (S)
 piconlink fox 1_0_1_10_1_85_FFFF0000_0_0_0
 # TNT Serie (S)
