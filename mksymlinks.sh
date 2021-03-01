@@ -301,7 +301,7 @@ piconlink tagesschau24 1_0_1_7031_41B_A401_FFFF0000_0_0_0
 # Al Jazeera International
 piconlink aljazeera 1_0_1_4E90_10F_270F_FFFF0000_0_0_0
 # BBC World News
-piconlink bbcworldnews 1_0_1_2B61_10F_270F_FFFF0000_0_0_0
+piconlink bbcworldnews 1_0_1_2B61_BF_270F_FFFF0000_0_0_0
 # Bloomberg
 piconlink bloomberg 1_0_1_5E2E_F1_270F_FFFF0000_0_0_0
 # CGTN Documentary
