@@ -85,7 +85,7 @@ piconlink ardalphahd 1_0_19_A091_19B_270F_FFFF0000_0_0_0
 # Bibel TV HD
 piconlink bibeltvhd 1_0_19_C79F_79_270F_FFFF0000_0_0_0
 # COMEDY CENTRAL HD
-piconlink vivahd 1_0_19_B02D_1C3_270F_FFFF0000_0_0_0
+piconlink comedycentralhd 1_0_19_B02D_1C3_270F_FFFF0000_0_0_0
 # DELUXE MUSIC HD
 piconlink deluxemusichd 1_0_19_B417_1C3_270F_FFFF0000_0_0_0
 # MTV HD
@@ -95,7 +95,7 @@ piconlink superrtlhd 1_0_19_8150_14B_270F_FFFF0000_0_0_0
 # KIKA HD
 piconlink kikahd 1_0_19_2B91_6F_270F_FFFF0000_0_0_0
 # nick/MTV+ HD
-piconlink nickhd 1_0_19_AC4A_1B9_270F_FFFF0000_0_0_0
+piconlink nick_mtvplus 1_0_19_AC4A_1B9_270F_FFFF0000_0_0_0
 # ZDF_neo HD
 piconlink zdfneo 1_0_19_A08F_191_270F_FFFF0000_0_0_0
 # Nitro HD
@@ -117,11 +117,11 @@ piconlink sport1hdde 1_0_19_4E96_19B_270F_FFFF0000_0_0_0
 # Eurosport1 HD
 piconlink eurosport1hd 1_0_19_DB28_231_270F_FFFF0000_0_0_0
 # Sky Sport News HD
-piconlink skysportnewshdde 1_0_19_6C_C_85_FFFF0000_0_0_0
+piconlink skysportnews 1_0_19_6C_C_85_FFFF0000_0_0_0
 # WELT HD
 piconlink welthd 1_0_19_C79D_79_270F_FFFF0000_0_0_0
 # PHOENIX HD
-piconlink phoenixhd 1_0_19_2F53_79_270F_FFFF0000_0_0_0
+piconlink phoenix 1_0_19_2F53_79_270F_FFFF0000_0_0_0
 # ntv HD
 piconlink ntvhd 1_0_19_C79E_79_270F_FFFF0000_0_0_0
 # tagesschau24 HD
@@ -389,7 +389,7 @@ piconlink sport1de 1_0_1_2F4C_BF_270F_FFFF0000_0_0_0
 # EUROSPORT 1
 piconlink eurosport1 1_0_1_2B63_BF_270F_FFFF0000_0_0_0
 # Sky Sport News
-piconlink skysportnewsde 1_0_1_11_3_85_FFFF0000_0_0_0
+piconlink skysportnews 1_0_1_11_3_85_FFFF0000_0_0_0
 # Sport1+
 piconlink sport1plusde 1_0_1_3B0C_97_270F_FFFF0000_0_0_0
 # EUROSPORT 2
@@ -1052,7 +1052,7 @@ piconlink mdrhd 1_0_1F_362_6F00_2114_EEEE0000_0_0_0
 # NDR FS NDS HD
 piconlink ndrhd 1_0_1F_381_6F00_2114_EEEE0000_0_0_0
 # PHOENIX HD
-piconlink phoenixhd 1_0_1F_303_6F00_2114_EEEE0000_0_0_0
+piconlink phoenix 1_0_1F_303_6F00_2114_EEEE0000_0_0_0
 # SWR RP HD
 piconlink swrhd 1_0_1F_3E2_6F00_2114_EEEE0000_0_0_0
 # tagesschau24 HD
