@@ -32,9 +32,9 @@ piconlink prosiebenhd 1_0_19_7D66_141_270F_FFFF0000_0_0_0
 piconlink voxhd 1_0_19_814F_14B_270F_FFFF0000_0_0_0
 # kabel eins HD
 piconlink kabeleinshd 1_0_19_7D67_141_270F_FFFF0000_0_0_0
-# RTL2 hd
-piconlink rtl2hd 1_0_19_814E_14B_270F_FFFF0000_0_0_0
-# 3Sat HD
+# RTLZWEI HD
+piconlink rtlzweihd 1_0_19_814E_14B_270F_FFFF0000_0_0_0
+# 3sat HD
 piconlink 3sathd 1_0_19_A08D_19B_270F_FFFF0000_0_0_0
 # arte HD
 piconlink artehd 1_0_19_42D9_79_270F_FFFF0000_0_0_0
@@ -46,73 +46,61 @@ piconlink wdrhd 1_0_19_2B93_6F_270F_FFFF0000_0_0_0
  piconlink hessenfernsehenhd 1_0_19_DB29_231_270F_FFFF0000_0_0_0
 # BR Fernsehen Sued HD
 piconlink bayerischesfernsehenhd 1_0_19_D743_23B_270F_FFFF0000_0_0_0
+# MDR Thueringen HD
+piconlink mdrhd 1_0_19_DF11_23B_270F_FFFF0000_0_0_0
 # NDR Niedersachsen HD
 piconlink ndrhd 1_0_19_CF73_23B_270F_FFFF0000_0_0_0
+# rbb Berlin HD
+piconlink rbbhd 1_0_19_E2FA_245_270F_FFFF0000_0_0_0
+# SR Fernsehen HD
+piconlink srfernsehenhd 1_0_19_DF10_23B_270F_FFFF0000_0_0_0
+# Radio Bremen TV HD
+piconlink radiobrementvhd 1_0_19_E2FB_187_270F_FFFF0000_0_0_0
 # SWR BW HD
 piconlink swrhd 1_0_19_DB2A_231_270F_FFFF0000_0_0_0
+# NRWision HD
+piconlink nrwisionhd 1_0_19_CF71_213_270F_FFFF0000_0_0_0
 # QVC HD
 piconlink qvchd 1_0_19_AC45_191_270F_FFFF0000_0_0_0
-# HSE24 HD
-piconlink hse24hd 1_0_19_AC46_191_270F_FFFF0000_0_0_0
+# HSE HD
+piconlink hsehd 1_0_19_AC46_191_270F_FFFF0000_0_0_0
 # Sonnenklar TV HD
 piconlink sonnenklartvhd 1_0_19_DB25_231_270F_FFFF0000_0_0_0
 # 1-2-3.TV HD
 piconlink 1-2-3.tvhd 1_0_19_DB26_231_270F_FFFF0000_0_0_0
-# Juwelo TV HD
-piconlink juwelotv 1_0_19_B02F_1C3_270F_FFFF0000_0_0_0
-# QVC Plus HD
-piconlink qvcplushd 1_0_19_B418_1C3_270F_FFFF0000_0_0_0
-# QVC Beauty & Style HD
-piconlink qvcbeautyandstyle 1_0_19_DF0E_23B_270F_FFFF0000_0_0_0
+# QVC ZWEI HD
+piconlink qvczweihd 1_0_19_B418_1C3_270F_FFFF0000_0_0_0
+# HSE Extra HD
+piconlink hseextrahd 1_0_19_E2F9_245_270F_FFFF0000_0_0_0
+# QVC Style HD
+piconlink qvcstylehd 1_0_19_DF0E_23B_270F_FFFF0000_0_0_0
 # DMAX HD
 piconlink dmaxhd 1_0_19_7980_1C3_270F_FFFF0000_0_0_0
+# ZDFinfo HD
+piconlink zdfinfohd 1_0_19_A85E_1AF_270F_FFFF0000_0_0_0
 # TLC HD
 piconlink tlcgermanyhd 1_0_19_C3B5_6F_270F_FFFF0000_0_0_0
+# ARD-alpha HD
+piconlink ardalphahd 1_0_19_A091_19B_270F_FFFF0000_0_0_0
 # Bibel TV HD
 piconlink bibeltvhd 1_0_19_C79F_79_270F_FFFF0000_0_0_0
-# NatGeo HD
-piconlink nationalgeographichd 1_0_19_458_D_85_FFFF0000_0_0_0
-# Spiegel TV Wissen HD
-piconlink spiegeltvwissen 1_0_19_621B_1B9_270F_FFFF0000_0_0_0
-# Discovery HD
-piconlink discoveryhd 1_0_19_E2F5_245_270F_FFFF0000_0_0_0
-# History HD
-piconlink historyhd 1_0_19_E2F6_245_270F_FFFF0000_0_0_0
-# PLANET HD
-piconlink planethdde 1_0_19_AC48_1AF_270F_FFFF0000_0_0_0
-# NatGeo Wild HD
-piconlink natgeowildhd 1_0_19_A475_1A5_270F_FFFF0000_0_0_0
-# Animal Planet HD
-piconlink animalplanethd 1_0_19_B02E_1C3_270F_FFFF0000_0_0_0
-# RTL Living HD
-piconlink rtllivinghd 1_0_19_B415_187_270F_FFFF0000_0_0_0
-# A&E HD
-piconlink aandehd 1_0_19_DB27_231_270F_FFFF0000_0_0_0
-# Bon Gusto HD
-piconlink bongustohd 1_0_19_6DCF_1B9_270F_FFFF0000_0_0_0
-# E! Entertainment HD
-piconlink eentertainmenthd 1_0_19_E2F7_245_270F_FFFF0000_0_0_0
-# VIVA HD
+# COMEDY CENTRAL HD
 piconlink vivahd 1_0_19_B02D_1C3_270F_FFFF0000_0_0_0
 # DELUXE MUSIC HD
 piconlink deluxemusichd 1_0_19_B417_1C3_270F_FFFF0000_0_0_0
 # MTV HD
 piconlink mtvhd 1_0_19_9CA7_6F_270F_FFFF0000_0_0_0
-# MTV Live HD
-piconlink mtvlivehd 1_0_19_6DD0_1A5_270F_FFFF0000_0_0_0
-# CLASSICA HD
-piconlink unitelclassicahd 1_0_19_759C_1A5_270F_FFFF0000_0_0_0
 # Super RTL HD
 piconlink superrtlhd 1_0_19_8150_14B_270F_FFFF0000_0_0_0
 # KIKA HD
 piconlink kikahd 1_0_19_2B91_6F_270F_FFFF0000_0_0_0
-# Nickelodeon HD
+# nick/MTV+ HD
 piconlink nickhd 1_0_19_AC4A_1B9_270F_FFFF0000_0_0_0
 # ZDF_neo HD
 piconlink zdfneo 1_0_19_A08F_191_270F_FFFF0000_0_0_0
 # Nitro HD
 piconlink nitrohd 1_0_19_8151_14B_270F_FFFF0000_0_0_0
-# Sat.1 Gold HD
+# SAT.1 GOLD HD
 piconlink sat1goldhd 1_0_19_7D6A_141_270F_FFFF0000_0_0_0
 # Tele 5 HD
 piconlink tele5hd 1_0_19_9CA6_6F_270F_FFFF0000_0_0_0
@@ -124,62 +112,22 @@ piconlink sixxhd 1_0_19_7D68_141_270F_FFFF0000_0_0_0
 piconlink prosiebenmaxxhd 1_0_19_7D69_141_270F_FFFF0000_0_0_0
 # ONE HD
 piconlink onehd 1_0_19_A08E_1A5_270F_FFFF0000_0_0_0
-# Anixe HD
-piconlink anixehd 1_0_19_E2F8_245_270F_FFFF0000_0_0_0
-# TNT Film HD
-piconlink tntfilmhd 1_0_19_5274_19B_270F_FFFF0000_0_0_0
-# TNT Serie HD
-piconlink tntseriehd 1_0_19_463_6_85_FFFF0000_0_0_0
-# 13th Street HD
-piconlink 13thstreethd 1_0_19_6219_19B_270F_FFFF0000_0_0_0
-# SyFy HD
-piconlink syfyhd 1_0_19_69EA_19B_270F_FFFF0000_0_0_0
-# Fox HD
-piconlink foxhd 1_0_19_464_6_85_FFFF0000_0_0_0
-# kabeleinsclassics HD
-piconlink kabeleinsclassicshd 1_0_19_98BD_187_270F_FFFF0000_0_0_0
-# RTL Crime HD
-piconlink rtlcrimehd 1_0_19_94D7_14B_270F_FFFF0000_0_0_0
-# Kinowelt TV HD
-piconlink kinowelttvhd 1_0_19_75A4_1A5_270F_FFFF0000_0_0_0
-# AXN HD
-piconlink axnhd 1_0_19_9CA5_191_270F_FFFF0000_0_0_0
-# ProSieben Fun HD
-piconlink prosiebenfunhd 1_0_19_94D5_187_270F_FFFF0000_0_0_0
-# Universal Channel HD
-piconlink universalchannelhd 1_0_19_2B92_6F_270F_FFFF0000_0_0_0
-# Romance TV HD
-piconlink romancetvhd 1_0_19_797F_1AF_270F_FFFF0000_0_0_0
-# TNT Comedy HD
-piconlink tntcomedyhd 1_0_19_94D6_1AF_270F_FFFF0000_0_0_0
-# RTL Passion HD
-piconlink rtlpassionhd 1_0_19_B416_187_270F_FFFF0000_0_0_0
 # Sport1 HD
 piconlink sport1hdde 1_0_19_4E96_19B_270F_FFFF0000_0_0_0
 # Eurosport1 HD
 piconlink eurosport1hd 1_0_19_DB28_231_270F_FFFF0000_0_0_0
 # Sky Sport News HD
 piconlink skysportnewshdde 1_0_19_6C_C_85_FFFF0000_0_0_0
-# Sport1+ HD
-piconlink sport1plushdde 1_0_19_42DA_1A5_270F_FFFF0000_0_0_0
-# Auto Motor und Sport TV HD
-piconlink automotorsporthd 1_0_19_621A_1B9_270F_FFFF0000_0_0_0
-# sportdigital HD
-piconlink sportdigitalhd 1_0_19_9CA8_191_270F_FFFF0000_0_0_0
-# MOTORVISION TV HD
-piconlink motorvisiontvhd 1_0_19_AC4B_1B9_270F_FFFF0000_0_0_0
-# N24 HD
-piconlink n24hd 1_0_19_C79D_79_270F_FFFF0000_0_0_0
-# Phoenix HD
+# WELT HD
+piconlink welthd 1_0_19_C79D_79_270F_FFFF0000_0_0_0
+# PHOENIX HD
 piconlink phoenixhd 1_0_19_2F53_79_270F_FFFF0000_0_0_0
 # ntv HD
-piconlink n-tvhd 1_0_19_C79E_79_270F_FFFF0000_0_0_0
-# BBC HD
-piconlink bbchd 1_0_19_A090_1B9_270F_FFFF0000_0_0_0
+piconlink ntvhd 1_0_19_C79E_79_270F_FFFF0000_0_0_0
+# tagesschau24 HD
+piconlink tagesschau24hd 1_0_19_DF0F_23B_270F_FFFF0000_0_0_0
 # CNN International HD
 piconlink cnnhd 1_0_19_A85D_1AF_270F_FFFF0000_0_0_0
-# Lust Pur HD
-piconlink lustpur 1_0_19_94D8_1AF_270F_FFFF0000_0_0_0
 
 # SDTV
 #######
@@ -198,8 +146,8 @@ piconlink prosieben 1_0_1_2F47_A1_270F_FFFF0000_0_0_0
 piconlink vox 1_0_1_2F48_A1_270F_FFFF0000_0_0_0
 # kabel eins
 piconlink kabeleins 1_0_1_2F4A_A1_270F_FFFF0000_0_0_0
-# RTL2
-piconlink rtl2 1_0_1_2F49_A1_270F_FFFF0000_0_0_0
+# RTLZWEI
+piconlink rtlzwei 1_0_1_2F49_A1_270F_FFFF0000_0_0_0
 # 3sat
 piconlink 3sat 1_0_1_6D67_437_66_FFFF0000_0_0_0
 # arte
@@ -1111,9 +1059,9 @@ piconlink swrhd 1_0_1F_3E2_6F00_2114_EEEE0000_0_0_0
 piconlink tagesschau24hd 1_0_1F_304_6F00_2114_EEEE0000_0_0_0
 # RTL HD NRW
 piconlink rtlhd 1_0_1F_4209_4004_2114_EEEE0000_0_0_0
-# RTL II HD
-piconlink rtl2hd 1_0_1F_4203_4004_2114_EEEE0000_0_0_0
-# RTL NITRO HD
+# RTL ZWEI HD
+piconlink rtlzweihd 1_0_1F_4203_4004_2114_EEEE0000_0_0_0
+# NITRO HD
 piconlink nitrohd 1_0_1F_4205_4004_2114_EEEE0000_0_0_0
 # SUPER RTL HD
 piconlink superrtlhd 1_0_1F_4202_4004_2114_EEEE0000_0_0_0
@@ -1122,7 +1070,7 @@ piconlink tele5hd 1_0_1F_4206_4004_2114_EEEE0000_0_0_0
 # VOX HD
 piconlink voxhd 1_0_1F_4201_4004_2114_EEEE0000_0_0_0
 # n-tv HD
-piconlink n-tvhd 1_0_1F_4204_4004_2114_EEEE0000_0_0_0
+piconlink ntvhd 1_0_1F_4204_4004_2114_EEEE0000_0_0_0
 # kabel eins HD
 piconlink kabeleinshd 1_0_1F_4222_4034_2114_EEEE0000_0_0_0
 # Sport1 HD
@@ -1145,10 +1093,10 @@ piconlink dmaxhd 1_0_1F_4242_4061_2114_EEEE0000_0_0_0
 piconlink disneychannelhd 1_0_1F_4240_4061_2114_EEEE0000_0_0_0
 # Eurosport 1 HD
 piconlink eurosport1hd 1_0_1F_4243_4061_2114_EEEE0000_0_0_0
-# HSE24 HD
-piconlink hse24hd 1_0_1F_4247_4061_2114_EEEE0000_0_0_0
-# N24 HD
-piconlink n24hd 1_0_1F_4241_4061_2114_EEEE0000_0_0_0
+# HSE HD
+piconlink hsehd 1_0_1F_4247_4061_2114_EEEE0000_0_0_0
+# WELT HD
+piconlink welthd 1_0_1F_4241_4061_2114_EEEE0000_0_0_0
 # QVC HD
 piconlink qvchd 1_0_1F_4246_4061_2114_EEEE0000_0_0_0
 # NICK HD
