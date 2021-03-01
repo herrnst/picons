@@ -79,7 +79,7 @@ piconlink dmaxhd 1_0_19_7980_1C3_270F_FFFF0000_0_0_0
 # ZDFinfo HD
 piconlink zdfinfohd 1_0_19_A85E_1AF_270F_FFFF0000_0_0_0
 # TLC HD
-piconlink tlcgermanyhd 1_0_19_C3B5_6F_270F_FFFF0000_0_0_0
+piconlink tlchd 1_0_19_C3B5_6F_270F_FFFF0000_0_0_0
 # ARD-alpha HD
 piconlink ardalphahd 1_0_19_A091_19B_270F_FFFF0000_0_0_0
 # Bibel TV HD
