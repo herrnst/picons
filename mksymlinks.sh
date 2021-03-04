@@ -63,7 +63,7 @@ piconlink nrwisionhd 1_0_19_CF71_213_270F_FFFF0000_0_0_0
 # QVC HD
 piconlink qvchd 1_0_19_AC45_191_270F_FFFF0000_0_0_0
 # HSE HD
-piconlink hsehd 1_0_19_AC46_191_270F_FFFF0000_0_0_0
+piconlink hse 1_0_19_AC46_191_270F_FFFF0000_0_0_0
 # Sonnenklar TV HD
 piconlink sonnenklartvhd 1_0_19_DB25_231_270F_FFFF0000_0_0_0
 # 1-2-3.TV HD
@@ -71,7 +71,7 @@ piconlink 1-2-3.tvhd 1_0_19_DB26_231_270F_FFFF0000_0_0_0
 # QVC ZWEI HD
 piconlink qvczweihd 1_0_19_B418_1C3_270F_FFFF0000_0_0_0
 # HSE Extra HD
-piconlink hseextrahd 1_0_19_E2F9_245_270F_FFFF0000_0_0_0
+piconlink hseextra 1_0_19_E2F9_245_270F_FFFF0000_0_0_0
 # QVC Style HD
 piconlink qvcstylehd 1_0_19_DF0E_23B_270F_FFFF0000_0_0_0
 # DMAX HD
@@ -797,7 +797,7 @@ piconlink disneychannelhd 1_0_1F_4240_4061_2114_EEEE0000_0_0_0
 # Eurosport 1 HD
 piconlink eurosport1hd 1_0_1F_4243_4061_2114_EEEE0000_0_0_0
 # HSE HD
-piconlink hsehd 1_0_1F_4247_4061_2114_EEEE0000_0_0_0
+piconlink hse 1_0_1F_4247_4061_2114_EEEE0000_0_0_0
 # WELT HD
 piconlink welthd 1_0_1F_4241_4061_2114_EEEE0000_0_0_0
 # QVC HD
