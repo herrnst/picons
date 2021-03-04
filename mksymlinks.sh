@@ -374,7 +374,7 @@ piconlink nickjr 1_0_1_8A_1_85_FFFF0000_0_0_0
 # Boomerang
 piconlink boomerang 1_0_1_1C_4_85_FFFF0000_0_0_0
 # Junior
-piconlink junior 1_0_1_13_4_85_FFFF0000_0_0_0
+piconlink junior 1_0_1_13_1_85_FFFF0000_0_0_0
 # Spiegel Geschichte
 piconlink spiegelgeschichte 1_0_1_34_4_85_FFFF0000_0_0_0
 # Sky Cinema Premieren HD
