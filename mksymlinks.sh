@@ -409,10 +409,8 @@ piconlink skysportbundesliga 1_0_19_11F_C_85_FFFF0000_0_0_0
 piconlink skysportbundesliga 1_0_19_129_1_85_FFFF0000_0_0_0
 # Sky Sport Bundesliga 6 HD
 piconlink skysportbundesliga 1_0_19_133_4_85_FFFF0000_0_0_0
-
-
-
-
+# Sky Sport F1 HD
+piconlink skysportf1 1_0_19_11_4_85_FFFF0000_0_0_0
 # Sky Sport 1 HD
 piconlink skysport 1_0_19_81_6_85_FFFF0000_0_0_0
 # Sky Sport 2 HD
